@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script src="js/d3.v4.min.js"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+
+  <style media="screen">
+    /* Styles go here */
+
+    html,
+    body {
+      height: 100%;
+      margin: 0px;
+      padding: 0px;
+    }
+
+    .container {
+      position: absolute;
+      top: 10%;
+      left: 5%;
+      font-size: 0.8em;
+      width: 20%;
+    }
+
+    #rei {
+      background: #6dd600;
+    }
+
+    #zoom {
+      margin-left: 5%;
+      margin-top: 2%;
+      margin-bottom: 3%;
+    }
+
+    .regionesBut {
+      top: 30%;
+    }
+
+    .btn-secondary {
+      position: relative;
+      border-color: white;
+      background-color: Transparent;
+      background-repeat: no-repeat;
+      border: none;
+      text-align: center;
+      vertical-align: center;
+    }
+
+    .btn-group-vertical>.btn {
+      font-size: 0.9em;
+      text-align: justify;
+    }
+
+    .no {
+      border: none;
+      pointer-events: none;
+    }
+
+    .links line {
+      stroke: #999;
+      stroke-opacity: 0.6;
+    }
+
+    .nodes circle {
+      stroke: #dadad9;
+      stroke-width: 1.5px;
+    }
+
+    div.tooltip {
+      position: absolute;
+      text-align: center;
+      padding: 2px;
+      font: 12px sans-serif;
+      background: lightsteelblue;
+      border: 0px;
+      border-radius: 8px;
+      pointer-events: none;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <button type="button" name="button" id="degree">Mayores Conecciones</button>
+    <button onclick="rel()" type="button" name="button" id="rei">Reiniciar</button>
+    <p id="zoom">Zoom <i class="fas fa-search-plus"></i> <i class="fas fa-search-minus"></i></p>
+    <div class="btn-group-vertical btn-group-sm regionesBut" role="group" aria-label="Small button group">
+      <button type="button" class="btn btn-secondary no"><img src="img/publicos.png"> Organismos Públicos</button>
+      <button type="button" class="btn btn-secondary no"><img src="img/universidades.png"> Universidades y Afines</button>
+      <button type="button" class="btn btn-secondary no"><img src="img/instrumento.png"> Instrumentos de Apoyo</button>
+      <button type="button" class="btn btn-secondary no"><img src="img/iniciativa.png"> Iniciativas</button>
+      <button type="button" class="btn btn-secondary no"><img src="img/gestor.png"> Gestores Tecnológicos</button>
+      <button type="button" class="btn btn-secondary no"><img src="img/per.png"> PER</button>
+      <button type="button" class="btn btn-secondary no"><img src="img/comunidad.png"> Comunidad</button>
+      <button type="button" class="btn btn-secondary no"><img src="img/internacional.png"> Organismos Internacionales</button>
+      <button type="button" class="btn btn-secondary no"><img src="img/privados.png"> Organismos Privados</button>
+    </div>
+  </div>
+
+  <script src="js/red-anillos.js"></script>
+  <script type="text/javascript">
+    function rel() {
+      location.reload();
+    }
+    document.documentElement.classList.remove("no-js");
+    document.documentElement.classList.add("js");
+  </script>
+</body>
+
+</html>
