@@ -2,7 +2,7 @@
 var w = window.innerWidth;
 var h = window.innerHeight;
 
-var currYear = 2018;
+var currRing = 2018;
 
 var svg = d3.select("body").append("svg")
   .attr("width", w)
@@ -15,9 +15,7 @@ var color = d3.scaleOrdinal(d3.schemeCategory20);
 
 // FORCE SIMULATION
 var simulation = d3.forceSimulation()
-  .force("link", d3.forceLink().id(function(d) {
-    return d.id;
-  }))
+  .force("link", d3.forceLink().id(function(d) { return d.id; }))
   .force("charge", d3.forceManyBody().strength(-2000))
   .force("center", d3.forceCenter(w / 2, h / 2))
   .force("collide", d3.forceCollide(100));
@@ -79,7 +77,8 @@ function isInList(el, list) {
 }
 
 // ----- MANAGE JSON DATA -----
-d3.json("data/red.json", function(error, graph) {
+// d3.json("data/red.json", function(error, graph) {
+d3.json("data/red-rings.json", function(error, graph) {
   if (error) throw error;
 
   var gnd = graph.nodes;
@@ -123,8 +122,8 @@ d3.json("data/red.json", function(error, graph) {
     .append("circle")
     .attr("r", nominal_node_size)
     .attr("fill", function(d) {
-      if (d.year !== "")
-        return color(d.year);
+      if (d.ring !== "")
+        return color(d.ring);
       else
         return "black";
     })
@@ -141,9 +140,9 @@ d3.json("data/red.json", function(error, graph) {
   simulation.force("link")
     .links(gnl);
 
-  function getY(year) {
-    if (year !== "") {
-      var multiplier = Math.abs(parseInt(year) - currYear);
+  function getY(ring) {
+    if (ring !== "") {
+      var multiplier = Math.abs(parseInt(ring) - currRing);
       var separator = 30;
       return (multiplier + 1) * separator;
     } else {
@@ -151,12 +150,12 @@ d3.json("data/red.json", function(error, graph) {
     }
   }
 
-  //function returns small and big radiuses of annulus based on Point year
-  function getAnnulus(year) {
+  //function returns small and big radiuses
+  function getAnnulus(ring) {
     var big_radius;
     var separator = 200;
-    if (year !== "") {
-      var multiplier = Math.abs(parseInt(year) - currYear);
+    if (ring !== "") {
+      var multiplier = Math.abs(parseInt(ring) - currRing);
       big_radius = (multiplier + 1) * separator;
     } else {
       big_radius = 2010;
@@ -192,7 +191,7 @@ d3.json("data/red.json", function(error, graph) {
 
   // function to return link and node position when simulation is generated
   function ticked() {
-    // Each year is placed on a different level to get chronological order of paper network
+    // Each ring is placed on a different level to get chronological order of paper network
 
     node
       .attr("cx", function(d) {
@@ -220,13 +219,13 @@ d3.json("data/red.json", function(error, graph) {
   function annulus_ticked() {
     node
       .attr("cx", function(d) {
-        var annulus = getAnnulus(d.year);
+        var annulus = getAnnulus(d.ring);
         var position = verifyPosition(d.x, d.y, annulus[0], annulus[1]);
         d.x = position[0];
         return d.x;
       })
       .attr("cy", function(d) {
-        var annulus = getAnnulus(d.year);
+        var annulus = getAnnulus(d.ring);
         var position = verifyPosition(d.x, d.y, annulus[0], annulus[1]);
         d.y = position[1];
         return d.y;
@@ -270,5 +269,97 @@ d3.json("data/red.json", function(error, graph) {
     })
   });
 
+  // BAR CHART ///////////////////////////////////////////////////////
+  // Creating frequencies for categories ////////////
+  var catOrg = gnd.map((d) => {
+    r = {
+      cat: d.category
+    };
+    return r.cat;
+  });
 
+  var resu = {};
+  for(var i = 0; i < catOrg.length; ++i) {
+      if(!resu[catOrg[i]])
+          resu[catOrg[i]] = 0;
+      ++resu[catOrg[i]];
+  }
+
+  var result = [
+    {"cat": "Comunidad", "value": resu["Comunidad"]},
+    {"cat": "Gestor Tecnologico", "value": resu["Gestor Tecnologico"]},
+    {"cat": "Iniciativas", "value": resu["Iniciativa"]},
+    {"cat": "Instrumento", "value": resu["Instrumento"]},
+    {"cat": "Internacional", "value": resu["Internacional"]},
+    {"cat": "PER", "value": resu["PER"]},
+    {"cat": "Privado", "value": resu["Privado"]},
+    {"cat": "Universidades y afines", "value": resu["Universidades y afines"]},
+    {"cat": "Publico", "value": resu["Publico"]}
+  ]
+
+  var w = 350;
+  var h = 138;
+
+  var x = d3.scaleLinear().range([0, w]);
+  var y = d3.scaleBand().range([h, 0]);
+
+  sortedData = result.sort(function(a, b) { return b.value - a.value; })
+  x.domain([0, d3.max(sortedData, function(d) { return d.value; })]);
+  y.domain(result.map(function(d) { return d.cat; })).padding(0.1);
+
+  // Tooltip for Bar Chart
+  function createTooltipBAR(d) {
+
+    div.transition()
+      .duration(100)
+      .style("opacity", .9);
+
+    div.html("<p id='num'>" + d.value + "</p>")
+      .style("left", (d3.event.pageX) + "px")
+      .style("top", (d3.event.pageY - 28) + "px");
+  }
+
+  var margin = {top: 10, right: 10, bottom: 0, left: 120};
+  var newElement = d3.select('.vis').append('svg');
+  var gh = newElement.append("g")
+		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    gh.append("g")
+        .attr("class", "x axis")
+       	.attr("transform", "translate(0," + h + ")")
+      	.call(d3.axisBottom(x).ticks(5).tickFormat(function(d) { return parseInt(d / 1000); }).tickSizeInner([-h]));
+
+    gh.append("g")
+        .attr("class", "y axis")
+        .call(d3.axisLeft(y));
+
+    gh.selectAll(".bar")
+        .data(sortedData)
+      .enter().append("rect")
+        .attr("class", "bar")
+        .attr("x", 1)
+        .attr("height", y.bandwidth())
+        .attr("y", function(d) { return y(d.cat); })
+        .attr("width", function(d) { return x(d.value); })
+        .attr("fill", function(d) {
+          if (d.cat == "Publico") { return "#1f77b4"};
+          if (d.cat == "Universidades y afines") { return "#aec7e8"};
+          if (d.cat == "Instrumento") { return "#ff7f0e"};
+          if (d.cat == "Gestor Tecnologico") { return "#2ca02c"};
+          if (d.cat == "PER") { return "#98df8a"};
+          if (d.cat == "Internacional") { return "#ff9896"};
+          if (d.cat == "Comunidad") { return "#d62728"};
+          if (d.cat == "Iniciativas") { return "#ffbb78"};
+          if (d.cat == "Privado") { return "#9467bd"};
+        })
+        .style("cursor", "pointer")
+        .on("mouseover", createTooltipBAR);
+
+    newElement.selectAll("text")
+        .data(sortedData)
+        .enter()
+        .text(function (d) { return d.value; })
+        .attr("x", function (d) { return xScale(d.value) + xScale.bandwidth() / 2; })
+        .attr("y", function (d) { return yScale(d.cat) + 12; })
+        .style("fill", "black");
 });

@@ -1,0 +1,7288 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "name": "Agencia Chilena para la Inocuidad y Calidad Alimentaria",
+      "degree": 9,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "ACHIPIA"
+    },
+    {
+      "name": "Corporacion de Desarrollo Productivo de la Region del Maule",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "CDPR Maule"
+    },
+    {
+      "name": "Corporacion de Desarrollo Productivo de la Region de O´Higgins",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "CDPR O'Higgins"
+    },
+    {
+      "name": "Centro de Informacion de Recursos Naturales",
+      "degree": 4,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "CIREN"
+    },
+    {
+      "name": "CONADI",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "CONADI-LosLagos"
+    },
+    {
+      "name": "Comision Nacional de Investigacion Cientifica y Tecnologica",
+      "degree": 3,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "CONICYT"
+    },
+    {
+      "name": "Corporacion de Fomento de la Produccion",
+      "degree": 18,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "CORFO"
+    },
+    {
+      "name": "CORFO Coquimbo",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "CORFO-Coquimbo"
+    },
+    {
+      "name": "CORFO Los Lagos",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "CORFO-LosLagos"
+    },
+    {
+      "name": "CORFO Los Rios",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "CORFO-LosRios"
+    },
+    {
+      "name": "CORFO Maule",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "CORFO-Maule"
+    },
+    {
+      "name": "CORFO O'Higgins",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "CORFO-OHiggins"
+    },
+    {
+      "name": "CORFO Valparaiso",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "CORFO-Valpo"
+    },
+    {
+      "name": "Consejo de Produccion Limpia",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "CPL"
+    },
+    {
+      "name": "Direccion General de Relaciones Economicas Internacionales",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "DIRECON"
+    },
+    {
+      "name": "Fundacion para la Innovacion Agraria",
+      "degree": 11,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "FIA"
+    },
+    {
+      "name": "MINECON - Fondo de Inversion Estrategica",
+      "degree": 5,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "FIE"
+    },
+    {
+      "name": "CORFO - Gerencia de Capacidades Tecnologicas",
+      "degree": 4,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "GCT"
+    },
+    {
+      "name": "CORFO - Gerencia de Competitividad",
+      "degree": 12,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "GDC"
+    },
+    {
+      "name": "CORFO - Gerencia de Emprendimiento",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "GDE"
+    },
+    {
+      "name": "Gobierno Regional Coquimbo",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "GR-Coquimbo"
+    },
+    {
+      "name": "Gobierno Regional Los Lagos",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "GR-LosLagos"
+    },
+    {
+      "name": "Gobierno Regional Maule",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "GR-Maule"
+    },
+    {
+      "name": "Comision de Ciencia y Tecnologia (CORE)",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "GR-OHiggins"
+    },
+    {
+      "name": "Gobierno Regional Valparaiso",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "GR-Valpo"
+    },
+    {
+      "name": "Instituto de Desarrollo Agropecuario",
+      "degree": 12,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "INDAP"
+    },
+    {
+      "name": "Instituto de Desarrollo Agropecuario - Bio-Bio",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "INDAP Bio-Bio"
+    },
+    {
+      "name": "Instituto de Desarrollo Agropecuario - Maule",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "INDAP Maule"
+    },
+    {
+      "name": "Instituto de Desarrollo Agropecuario - O'Higgins",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "INDAP O´Higgins"
+    },
+    {
+      "name": "INDAP Los Rios",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "INDAP-LosRios"
+    },
+    {
+      "name": "Instituto Forestal de Chile",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "INFOR"
+    },
+    {
+      "name": "Instituto Nacional de Normalizacion",
+      "degree": 3,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "INN"
+    },
+    {
+      "name": "CORFO - Innova",
+      "degree": 6,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "Innova"
+    },
+    {
+      "name": "Agencia de Promocion de Inversion Chilena",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "INVESTCHILE"
+    },
+    {
+      "name": "Instituto de Salud Publica",
+      "degree": 3,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "ISP"
+    },
+    {
+      "name": "Ministerio de Agricultura",
+      "degree": 13,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINAGRI"
+    },
+    {
+      "name": "MINAGRI BioBio",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINAGRI-BioBio"
+    },
+    {
+      "name": "MINAGRI Los Rios",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINAGRI-LosRios"
+    },
+    {
+      "name": "MINISTERIO",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINAGRI-Maule"
+    },
+    {
+      "name": "MINAGRI O'Higgins",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINAGRI-OHiggins"
+    },
+    {
+      "name": "MINAGRI Valparaiso",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINAGRI-Valpo"
+    },
+    {
+      "name": "Ministerio de Economia",
+      "degree": 13,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINECON"
+    },
+    {
+      "name": "MINECON Coquimbo",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINECON-Coquimbo"
+    },
+    {
+      "name": "MINECON Los Lagos",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINECON-LosLagos"
+    },
+    {
+      "name": "MINECON Los Rios",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINECON-LosRios"
+    },
+    {
+      "name": "MINECON O'Higgins",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINECON-OHiggins"
+    },
+    {
+      "name": "MINECON - Secretaria Regional Valparaiso",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINECON-Valpo"
+    },
+    {
+      "name": "Ministerio de Educacion",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINEDUC"
+    },
+    {
+      "name": "Ministerio de Relaciones Exteriores",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINREL"
+    },
+    {
+      "name": "Ministerio de Salud",
+      "degree": 6,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINSAL"
+    },
+    {
+      "name": "MINSAL - Division de Politicas Publicas Saludables y Promocion",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINSAL - D.P. Publicas"
+    },
+    {
+      "name": "Sub Redes Asistenciales MINSAL",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MINSAL - S Redes Asistenciales"
+    },
+    {
+      "name": "Ministerio de Obras Publicas Seremi Valparaiso",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MOP-Valpo"
+    },
+    {
+      "name": "Ilustre Municipalidad de Navidad",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "MuniNavidad"
+    },
+    {
+      "name": "Oficina de Estudios y Politicas Agrarias",
+      "degree": 6,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "ODEPA"
+    },
+    {
+      "name": "Programa Estrategico Regional de Alimentos con Valor Agregado",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "PERLosRios"
+    },
+    {
+      "name": "Programa Estrategico Regional de Agroindustria para el Desarrollo",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "PERMaule"
+    },
+    {
+      "name": "Programa Estrategico Regional HortiCrece",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "PEROHiggins"
+    },
+    {
+      "name": "PIA+S",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "PIA+S"
+    },
+    {
+      "name": "Programa de Fomento a las Exportaciones Chilenas",
+      "degree": 7,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "PROCHILE"
+    },
+    {
+      "name": "ProChile Los Lagos",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "PROCHILE-LosLagos"
+    },
+    {
+      "name": "ProChile O'Higgins",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "PROCHILE-OHiggins"
+    },
+    {
+      "name": "Prodesal Comuna de Paredones",
+      "degree": 1,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "Prodesal-Paredones"
+    },
+    {
+      "name": "Servicio Agricola Ganadero",
+      "degree": 10,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "SAG"
+    },
+    {
+      "name": "Servicio de Cooperacion Tecnica",
+      "degree": 5,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "SERCOTEC"
+    },
+    {
+      "name": "SERCOTEC Coquimbo",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "SERCOTEC-Coquimbo"
+    },
+    {
+      "name": "SERCOTEC Los Lagos",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "SERCOTEC-LosLagos"
+    },
+    {
+      "name": "SERNAPESCA",
+      "degree": 3,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "SERNAPESCA"
+    },
+    {
+      "name": "SERNAPESCA Los Lagos",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "SERNAPESCA-LosLagos"
+    },
+    {
+      "name": "SUBPESCA",
+      "degree": 4,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "SUBPESCA"
+    },
+    {
+      "name": "Pesca y Acuicultura, Regiones III Atacama y IV Coquimbo, Subpesca",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "SUBPESCA-Atacama Coquimbo"
+    },
+    {
+      "name": "SUBPESCA Los Lagos",
+      "degree": 2,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "SUBPESCA-LosLagos"
+    },
+    {
+      "name": "Subsecretaria Agricultura",
+      "degree": 5,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "Subsecretaria Agricultura"
+    },
+    {
+      "name": "Subsecretaria Economia",
+      "degree": 3,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "Subsecretaria Economia"
+    },
+    {
+      "name": "Programa Estrategico Transforma Alimentos",
+      "degree": 11,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "TA"
+    },
+    {
+      "name": "TA - Comite Ejecutivo",
+      "degree": 9,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "TA-CE"
+    },
+    {
+      "name": "TA - Consejo Directivo Fruticultura de Exportacion",
+      "degree": 12,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "TA-Fruti"
+    },
+    {
+      "name": "TA - Consejo Directivo Alimentos Procesados",
+      "degree": 15,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "TA-Process"
+    },
+    {
+      "name": "TA - Directorio",
+      "degree": 6,
+      "category": "Publico",
+      "ring": 2018,
+      "id": "TA-VIP"
+    },
+    {
+      "name": "Capitulo Chileno de Composicion de Alimentos",
+      "degree": 2,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "CAPCHICAL"
+    },
+    {
+      "name": "Facultad de Ciencias Veterinarias y Pecuarias - Universidad de Chile",
+      "degree": 2,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "FAVET-UChile"
+    },
+    {
+      "name": "Pontificia Universidad Catolica de Chile",
+      "degree": 10,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "PUC"
+    },
+    {
+      "name": "Pontificia Universidad Catolica de Valparaiso",
+      "degree": 3,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "PUCV"
+    },
+    {
+      "name": "Nucleo Biotecnologia Curauma de la Pontificia Universidad Catolica de Valparaiso",
+      "degree": 1,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "PUCV - NBC"
+    },
+    {
+      "name": "Fac. Cienicas Agronomicas y de los Alimentos PUCV",
+      "degree": 2,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "PUCV-Agronomia"
+    },
+    {
+      "name": "Research to Business Catalyst (R2B Catalyst) ",
+      "degree": 1,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "R2B Catalyst"
+    },
+    {
+      "name": "SOCHITAL",
+      "degree": 2,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "SOCHITAL"
+    },
+    {
+      "name": "Universidad Austral de Chile",
+      "degree": 2,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UACh"
+    },
+    {
+      "name": "Universidad Andres Bello",
+      "degree": 2,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UAndresBello"
+    },
+    {
+      "name": "Universidad del Bio Bio",
+      "degree": 2,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UBIOBIO"
+    },
+    {
+      "name": "Universidad Central",
+      "degree": 3,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UCentral"
+    },
+    {
+      "name": "Universidad de Chile",
+      "degree": 8,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UChile"
+    },
+    {
+      "name": "Universidad de Chile, Facultad de Ciencias, Centro de Biologia Molecular Vegetal",
+      "degree": 1,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UChile-CBMV"
+    },
+    {
+      "name": "Facultad de Medicina UCH",
+      "degree": 1,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UChile-FMed"
+    },
+    {
+      "name": "Subdireccion Innovacion UCHILE",
+      "degree": 1,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UChile-Subdire Innovacion"
+    },
+    {
+      "name": "Universidad Catolica del Maule",
+      "degree": 2,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UCMaule"
+    },
+    {
+      "name": "Universidad Catolica del Norte",
+      "degree": 1,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UCN"
+    },
+    {
+      "name": "Universidad de Concepcion",
+      "degree": 10,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UConce"
+    },
+    {
+      "name": "Centro de Desarrollo Tecnologico Agroindustrial de la Universidad de Concepcion",
+      "degree": 1,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UConce - CDT Agroindustrial"
+    },
+    {
+      "name": "Facultad de Ingenieria Agricola de la U. de Concepcion",
+      "degree": 1,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UConce - FI Agricola"
+    },
+    {
+      "name": "Unidad de Desarrollo Tecnologico de la Universidad de Concepcion",
+      "degree": 1,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UConce - UDT"
+    },
+    {
+      "name": "Centro de Biotecnologia de la Universidad de Concepcion",
+      "degree": 1,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UConce-CBiotec"
+    },
+    {
+      "name": "Universidad de la Frontera",
+      "degree": 9,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UFRO"
+    },
+    {
+      "name": "Universidad de La Serena",
+      "degree": 1,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "ULaSerena"
+    },
+    {
+      "name": "Universidad de Los Andes",
+      "degree": 3,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "ULosAndes"
+    },
+    {
+      "name": "Universidad de Magallanes",
+      "degree": 1,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UMagallanes"
+    },
+    {
+      "name": "Univeridad de Santiago de Chile",
+      "degree": 8,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "USACH"
+    },
+    {
+      "name": "Laboratorio de Envases y Embalajes de la USACH",
+      "degree": 1,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "USACH-LABEN"
+    },
+    {
+      "name": "Universidad Santo Tomas",
+      "degree": 2,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UST"
+    },
+    {
+      "name": "Universidad de Talca",
+      "degree": 9,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UTalca"
+    },
+    {
+      "name": "Universidad Tecnica Federico Santa Maria",
+      "degree": 5,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UTFSM"
+    },
+    {
+      "name": "Universidad Tecnologica Metropolitana",
+      "degree": 2,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UTM"
+    },
+    {
+      "name": "Universidad Valparaiso",
+      "degree": 1,
+      "category": "Universidades y afines",
+      "ring": 2017,
+      "id": "UV"
+    },
+    {
+      "name": "Bien Publico",
+      "degree": 5,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "15BP-45344 AM"
+    },
+    {
+      "name": "Bien Publico",
+      "degree": 7,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "15BP-45394 AM"
+    },
+    {
+      "name": "Bien Publico",
+      "degree": 4,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "15BPE-47219 AM"
+    },
+    {
+      "name": "Bien Publico",
+      "degree": 5,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "15CET1-38847 AM"
+    },
+    {
+      "name": "Bien Publico",
+      "degree": 5,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "16BPE-62273 AM"
+    },
+    {
+      "name": "Bien Publico",
+      "degree": 3,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "16BPE-62292 AM"
+    },
+    {
+      "name": "Bien Publico",
+      "degree": 3,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "16BPE-62330 AM"
+    },
+    {
+      "name": "Programa de Apoyo a Proyectos Estrategicos",
+      "degree": 2,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "AProy Estrategicos"
+    },
+    {
+      "name": "Bienes Publicos",
+      "degree": 10,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "BPublicos"
+    },
+    {
+      "name": "Centros Tecnologicos para la Innovacion",
+      "degree": 2,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "CTI's"
+    },
+    {
+      "name": "Estandares y Fortalecimiento del Sistema Nacional de Diagnostico, Calidad e Inocuidad",
+      "degree": 5,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "Estand & Fort DCI"
+    },
+    {
+      "name": "Programa de Innovacion e I+D Empresarial",
+      "degree": 4,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "I+D Empresarial"
+    },
+    {
+      "name": "Proyectos de Innovacion Alimentos Saludables",
+      "degree": 20,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "I+D Empresarial FIA"
+    },
+    {
+      "name": "Iniciativas de Fomento Integradas",
+      "degree": 4,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "IFI"
+    },
+    {
+      "name": "Prototipos de Innovacion",
+      "degree": 17,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "L1"
+    },
+    {
+      "name": "Validacion y Empaquetamiento de Innovaciones",
+      "degree": 11,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "L2"
+    },
+    {
+      "name": "Contratos Tecnologicos para la Innovacion",
+      "degree": 23,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "L3"
+    },
+    {
+      "name": "Nodos para la Competitividad",
+      "degree": 2,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "Nodo"
+    },
+    {
+      "name": "Programa de Fortalecimiento de Capacidades",
+      "degree": 2,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "P Fort Capacidades"
+    },
+    {
+      "name": "Programa de Difusion Tecnologica",
+      "degree": 10,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "PDT"
+    },
+    {
+      "name": "Programa de Prospeccion Tecnologica",
+      "degree": 4,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "PPT"
+    },
+    {
+      "name": "Programa de Difusion Tecnologica",
+      "degree": 3,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "ProgDifTec"
+    },
+    {
+      "name": "Programas Tecnologicos",
+      "degree": 6,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "PTECs"
+    },
+    {
+      "name": "Programa Subsidio Semilla de Asigancion Flexible para Desafio",
+      "degree": 3,
+      "category": "Instrumento",
+      "ring": 2016,
+      "id": "SSAF"
+    },
+    {
+      "name": "CeTA-Asociados",
+      "degree": 3,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "CeTA-A"
+    },
+    {
+      "name": "CeTA-Coejecutores",
+      "degree": 6,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "CeTA-C"
+    },
+    {
+      "name": "CET Agroindustrial Asociados/Mandantes",
+      "degree": 7,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "CET-AProcesados AM"
+    },
+    {
+      "name": "CET Agroindustrial Coejecutores",
+      "degree": 5,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "CET-AProcesados C"
+    },
+    {
+      "name": "Centros de Extensionismo Tecnologico",
+      "degree": 6,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "CETs"
+    },
+    {
+      "name": "CEV del Sur Asociados/Mandantes",
+      "degree": 5,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "CEVS AM"
+    },
+    {
+      "name": "CEV del Sur Coejecutores",
+      "degree": 3,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "CEVS C"
+    },
+    {
+      "name": "CO-INVENTA Asociados",
+      "degree": 3,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "CO-INVENTA A"
+    },
+    {
+      "name": "CO-INVENTA Coejecutores",
+      "degree": 6,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "CO-INVENTA C"
+    },
+    {
+      "name": "CO-INVENTA Interesados",
+      "degree": 5,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "CO-INVENTA I"
+    },
+    {
+      "name": "Polo territorial para el desarrollo de colorantes y antioxidantes de alto valor para la industria de alimentos a partir de materias primas altamente dedicadas y producidas en la zona centro-sur de Chile (PCYA)",
+      "degree": 3,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "Colorantes"
+    },
+    {
+      "name": "PCYA Asociados",
+      "degree": 3,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "Colorantes A"
+    },
+    {
+      "name": "PCYA Coejecutores",
+      "degree": 8,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "Colorantes C"
+    },
+    {
+      "name": "Diseño e implementacion de un Plan Nacional de Cierre de Brechas de Contaminantes Quimicos en Productos Primarios - Comite Tecnico de Seguimiento",
+      "degree": 12,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "ContaQuim-CTS"
+    },
+    {
+      "name": "CP Empresas Cadena Manzanas",
+      "degree": 5,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "CP Manzanas"
+    },
+    {
+      "name": "CP Empresas Cadena Olivas",
+      "degree": 5,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "CP Olivas"
+    },
+    {
+      "name": "Cultiva UChile Asociados/Mandante",
+      "degree": 5,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "Cultiva UChile AM"
+    },
+    {
+      "name": "eCERT",
+      "degree": 1,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "eCERT"
+    },
+    {
+      "name": "Diseño e Implementacion de un sistema de Gestion para Estandares en Alimentos Funcionales y Reconocimiento de la Categoria en el RSA  - Comite Tecnico de Seguimiento",
+      "degree": 14,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "EstandarAF-CTS"
+    },
+    {
+      "name": "Diseño e implementacion de estandares para la disminucion programa de nutrientes criticos en las MIPYMEs Alimentarias - Comite Tecnico de Seguimiento",
+      "degree": 14,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "EstandarNC-CTS"
+    },
+    {
+      "name": "FrutiCentroNorte Coejecutores",
+      "degree": 3,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "FrutiCentroNorte C"
+    },
+    {
+      "name": "FrutiCentroNorte Interesados",
+      "degree": 6,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "FrutiCentroNorte I"
+    },
+    {
+      "name": "FrutiCentroSur Coejecutores",
+      "degree": 5,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "FrutiCentroSur C"
+    },
+    {
+      "name": "FrutiSur Asociados",
+      "degree": 2,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "FrutiSur A"
+    },
+    {
+      "name": "FrutiSur Coejecutores",
+      "degree": 6,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "FrutiSur C"
+    },
+    {
+      "name": "Polo territorial de desarrollo de ingredientes funcionales y aditivos, a partir de granos ancestrales, para la industria alimentaria mundial",
+      "degree": 3,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "GAncestrales"
+    },
+    {
+      "name": "GAncestrales Asociados",
+      "degree": 7,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "GAncestrales A"
+    },
+    {
+      "name": "GAncestrales Coejecutores",
+      "degree": 10,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "GAncestrales C"
+    },
+    {
+      "name": "IFAN Asociados",
+      "degree": 3,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "IFAN-A"
+    },
+    {
+      "name": "IFAN Coejecutores",
+      "degree": 8,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "IFAN-C"
+    },
+    {
+      "name": "IFAN Interesados",
+      "degree": 4,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "IFAN-I"
+    },
+    {
+      "name": "IFI-Cero Perdidas",
+      "degree": 5,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "IFI-Cero Perdidas"
+    },
+    {
+      "name": "IFI-Fruticola",
+      "degree": 7,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "IFI-Fruticola"
+    },
+    {
+      "name": "Polo estrategico de materias primas dedicadas de origen animal y silvicola para Ingredientes Funcionales y Aditivos Especializados (PIFA), para el mercado internacional bajo el modelo de Comercio Justo de la Zona Central",
+      "degree": 3,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "PIFA"
+    },
+    {
+      "name": "PIFA Asociados",
+      "degree": 11,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "PIFA A"
+    },
+    {
+      "name": "PIFA Coejecutores",
+      "degree": 5,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "PIFA C"
+    },
+    {
+      "name": "Polo estrategico de ingredientes funcionales y aditivos especializados en las Regiones del Maule y OHiggins: Cooperacion, articulacion y encadenamientos productivos para la creacion de una nueva industria con valor compartido",
+      "degree": 3,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "PMauleOHiggins"
+    },
+    {
+      "name": "PMauleOHiggins Asociados",
+      "degree": 6,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "PMauleOHiggins A"
+    },
+    {
+      "name": "PMauleOHiggins Coejecutores",
+      "degree": 9,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "PMauleOHiggins C"
+    },
+    {
+      "name": "Polos Territoriales de Desarrollo Estrategico",
+      "degree": 6,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "Polos"
+    },
+    {
+      "name": "Desarrollo de ingredientes funcionales y aditivos especializados para la valorizacion de la pequeña y mediana agricultura de secano",
+      "degree": 3,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "Secano"
+    },
+    {
+      "name": "Secano Asociados",
+      "degree": 12,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "Secano A"
+    },
+    {
+      "name": "Secano Coejecutores",
+      "degree": 6,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "Secano C"
+    },
+    {
+      "name": "Implementacion de un Sistema Nacional Integrado de Laboratorios Publicos de Alto Estandar especializados para fortalecer las capacidades analiticas y diagnosticas en Calidad e Inocuidad Alimentaria - Comite Tecnico de Seguimiento",
+      "degree": 6,
+      "category": "Iniciativa",
+      "ring": 2015,
+      "id": "SNILabsAS-CTS"
+    },
+    {
+      "name": "Consorcio Biofrutales",
+      "degree": 3,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "Biofrutales"
+    },
+    {
+      "name": "Centro de Investigacion y Desarrollo Agricola Rosario",
+      "degree": 1,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "CE Rosario"
+    },
+    {
+      "name": "Centro de Estudios Avanzados en Fruticultura",
+      "degree": 2,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "CEAF"
+    },
+    {
+      "name": "Centro de Estudios en Alimentos Procesados",
+      "degree": 12,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "CEAP"
+    },
+    {
+      "name": "Centro Tecnologico para la Innovacion Alimentaria",
+      "degree": 4,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "CeTA"
+    },
+    {
+      "name": "Centro de Extensionismo Tecnologico para fortalecer la competitividad de la Industria de Alimentos Procesados",
+      "degree": 3,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "CET-AProcesados"
+    },
+    {
+      "name": "Centro de extensionismo vitivinicola del sur",
+      "degree": 3,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "CEVS"
+    },
+    {
+      "name": "Plataforma de Innovacion en Envases y Embalajes para Alimentos CO-INVENTA",
+      "degree": 4,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "CO-INVENTA"
+    },
+    {
+      "name": "Centro Regional de Estudios en Alimentos Saludables  ",
+      "degree": 12,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "CREAS"
+    },
+    {
+      "name": "Centro de Extensionismo Horticola - Faculta de Ciencias Agronomicas U. de Chile",
+      "degree": 3,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "Cultiva UChile"
+    },
+    {
+      "name": "Direccion de Investigaciones Cientificas y Tecnologicas de la Pontificia Universidad Catolica de Chile - DICTUC SA",
+      "degree": 4,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "DICTUC"
+    },
+    {
+      "name": "Fundacion Chile",
+      "degree": 9,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "FCh"
+    },
+    {
+      "name": "Fundacion Chinquihue",
+      "degree": 1,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "FChinquihue"
+    },
+    {
+      "name": "Fraunhofer Chile Research",
+      "degree": 4,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "Fraunhofer Chile"
+    },
+    {
+      "name": "PTEC Fruticola Centro Norte",
+      "degree": 3,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "FrutiCentroNorte"
+    },
+    {
+      "name": "PTEC Fruticola Centro Sur",
+      "degree": 2,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "FrutiCentroSur"
+    },
+    {
+      "name": "PTEC Fruticola Sur",
+      "degree": 3,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "FrutiSur"
+    },
+    {
+      "name": "Consorcio IFAN - Desarrollo Sinergico de Ingredientes Funcionales y Aditivos Naturales",
+      "degree": 4,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "IFAN"
+    },
+    {
+      "name": "Instituto de Investigaciones Agropecuarias",
+      "degree": 20,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "INIA"
+    },
+    {
+      "name": "INIA - La Cruz",
+      "degree": 1,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "INIA - La Cruz"
+    },
+    {
+      "name": "INIA - Raihuen",
+      "degree": 1,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "INIA - Raihuen"
+    },
+    {
+      "name": "INIA - Quilamapu",
+      "degree": 3,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "INIA-Quilamapu"
+    },
+    {
+      "name": "INIA Rayentue",
+      "degree": 1,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "INIA-Rayentue"
+    },
+    {
+      "name": "Instituto de Nutricion y Tecnologia de los Alimentos ",
+      "degree": 3,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "INTA"
+    },
+    {
+      "name": "Leitat Chile",
+      "degree": 2,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "Leitat Chile"
+    },
+    {
+      "name": "Fundacion UC Davis — Chile Life Sciences Innovation Center",
+      "degree": 4,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "UCDavis"
+    },
+    {
+      "name": "UC Davis Chile",
+      "degree": 1,
+      "category": "Gestor Tecnologico",
+      "ring": 2014,
+      "id": "UCDavisChile"
+    },
+    {
+      "name": "Programa Estrategico Regional Los Rios Alimentos con Valor Agregado",
+      "degree": 13,
+      "category": "PER",
+      "ring": 2013,
+      "id": "AVALosRios"
+    },
+    {
+      "name": "Programa Estrategico Regional Valparaiso Fruticultura Sustentable",
+      "degree": 21,
+      "category": "PER",
+      "ring": 2013,
+      "id": "FrutiSust"
+    },
+    {
+      "name": "Programa Estrategico Regional O'Higgins Horticultura de Alta Tecnologia",
+      "degree": 12,
+      "category": "PER",
+      "ring": 2013,
+      "id": "Horticrece"
+    },
+    {
+      "name": "Programa Estrategico Regional Coquimbo - Agregacion de Valor y Fuente de Bioproductos Marinos",
+      "degree": 16,
+      "category": "PER",
+      "ring": 2013,
+      "id": "MasMar"
+    },
+    {
+      "name": "Programa Estrategico Regional Maule - Agroindustria para el Desarrollo",
+      "degree": 13,
+      "category": "PER",
+      "ring": 2013,
+      "id": "MauleAlimenta"
+    },
+    {
+      "name": "Programa Estrategico Regional Los Lagos - Industria Miticultora",
+      "degree": 18,
+      "category": "PER",
+      "ring": 2013,
+      "id": "MejillonChile"
+    },
+    {
+      "name": "Junta de Vigilancia de la 3ra Seccion Rio Aconcagua",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "3raSRAconcagua"
+    },
+    {
+      "name": "Asociacion de Agricultores de Los Andes",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "ALosAndes"
+    },
+    {
+      "name": "Asosiacion Mitilicultores Calbuco",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "AMCalbuco"
+    },
+    {
+      "name": "Asociacion de Agricultores de Quillota y Marga Marga",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "AQuillotaMMarga"
+    },
+    {
+      "name": "Asociacion de Agricultores de San Antonio",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "ASanAntonio"
+    },
+    {
+      "name": "Asociacion de Agricultores de San Felipe",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "ASanFelipe"
+    },
+    {
+      "name": "Sindicato de Buzos Mariscadores Algueros y ramos similares de Caleta El Sauc",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "BMAElSauce"
+    },
+    {
+      "name": "Comite Campesino Arrocero Otingue, Belen y Flor de Ñiquen",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "C. Arrocero Otingue y otros"
+    },
+    {
+      "name": "Comite Campesino Productores de Arroz Millauquen Unido",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "C. Arroz Millauquen Unido"
+    },
+    {
+      "name": "Contexto Ciudadano",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "C. Ciudadano"
+    },
+    {
+      "name": "Comite Campesino El Crucero de Buli",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "C. Crucero de Buli"
+    },
+    {
+      "name": "Consejo Asesor Campesino Regional y Nacional",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "CACRN"
+    },
+    {
+      "name": "Comite pequeño, mediano, grande agricultor Cuncumen, San Antonio",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "CCuncumen"
+    },
+    {
+      "name": "Confederacion Nacional Unidad Obrero Campesina de Chile",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "CNUOCC"
+    },
+    {
+      "name": "Coordinadora Regional de Recolectoras y Recolectores de la Octava Region",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "CRRecolectoresVIII"
+    },
+    {
+      "name": "Fundacion Minera Los Pelambres ",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "F Min Los Pelambres"
+    },
+    {
+      "name": "Federacion de Pesca Artesanal Cochamo",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "FPACochamo"
+    },
+    {
+      "name": "Federacion de Pesca Artesanal Hualaihue",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "FPAHualaihue"
+    },
+    {
+      "name": "Agrupacion Lof Kumikir (Parte de Comunidad Indigena Francisco Cumiquir)  ",
+      "degree": 2,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "LofKumikir"
+    },
+    {
+      "name": "Movimiento Unitario Campesino y Etnias de Chile",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "MUCECH"
+    },
+    {
+      "name": "Pequeños y medianos Agricultores de Chanco (VII Region)",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "PYMAgricultores-Chanco"
+    },
+    {
+      "name": "Pequeños y medianos Agricultores de Coihueco (VIII Region)",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "PYMAgricultores-Coihueco"
+    },
+    {
+      "name": "Pequeños y medianos Agricultores de El Convento (V Region)",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "PYMAgricultores-Convento"
+    },
+    {
+      "name": "Pequeños y medianos Agricultores de Licanten/Curepto (VII region)",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "PYMAgricultores-Licanten"
+    },
+    {
+      "name": "Pequeños y medianos Agricultores de Navidad (VI region)",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "PYMAgricultores-Navidad"
+    },
+    {
+      "name": "Pequeños y medianos Agricultores de Pueblo Seco (VIII region)",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "PYMAgricultores-PuebloSeco"
+    },
+    {
+      "name": "Pequeños y medianos Agricultores de San Ignacio (VIII Region)",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "PYMAgricultores-SanIgnacio"
+    },
+    {
+      "name": "MITILICULTORA QUEILEN",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "Queilen"
+    },
+    {
+      "name": "Corporacion Robinson Crusoe",
+      "degree": 2,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "Robinson Crusoe"
+    },
+    {
+      "name": "Taller de Accion Cultural",
+      "degree": 1,
+      "category": "Comunidad",
+      "ring": 2012,
+      "id": "TAccionCultural"
+    },
+    {
+      "name": "Instituto Tecnologico del Plastico - España",
+      "degree": 1,
+      "category": "Internacional",
+      "ring": 2011,
+      "id": "AIMPLAS"
+    },
+    {
+      "name": "Food and Agriculture Organization of the United Nations",
+      "degree": 1,
+      "category": "Internacional",
+      "ring": 2011,
+      "id": "FAO"
+    },
+    {
+      "name": "Instituto de Ciencia y Tecnologia de los Alimentos y Nutricion (ICTAN) CSIC-MADRID",
+      "degree": 1,
+      "category": "Internacional",
+      "ring": 2011,
+      "id": "ICTAN"
+    },
+    {
+      "name": "International Union of Bakers and Confectioners",
+      "degree": 1,
+      "category": "Internacional",
+      "ring": 2011,
+      "id": "UIBC"
+    },
+    {
+      "name": "Universidad de Liverpool",
+      "degree": 1,
+      "category": "Internacional",
+      "ring": 2011,
+      "id": "ULiverpool"
+    },
+    {
+      "name": "Alimentos y Bebidas de Chile A.G.",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "AB Chile"
+    },
+    {
+      "name": "American Bioprocess Ltda.",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "ABio"
+    },
+    {
+      "name": "Profesionales Abud Sittler Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Abud Sittler"
+    },
+    {
+      "name": "Agricola Ceres Ltda.",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "ACeres"
+    },
+    {
+      "name": "Apicola Choapa Ltda",
+      "degree": 4,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "AChoapa"
+    },
+    {
+      "name": "Alimentos Y Servicios AcuaFood Spa",
+      "degree": 6,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "AcuaFood"
+    },
+    {
+      "name": "AEON Biogroup Spa",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "AEONBiogroup"
+    },
+    {
+      "name": "Jugos Agricola Forestal El Escudo",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Afe"
+    },
+    {
+      "name": "Asociacion Nacional de Fabricantes e Importadores de Productos Fitosanitarios Agricolas",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "AFIPA"
+    },
+    {
+      "name": "Asociacion Gremial de Comites Campesinos Rubro Arroz",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "AG C. Rubro Arroz"
+    },
+    {
+      "name": "Asociacion Gremial Horticola de la Region de la Araucania",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "AGHAraucania"
+    },
+    {
+      "name": "Agricolvial SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "AGRICOVIAL"
+    },
+    {
+      "name": "Asociacion de productores Agrimaule",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "AgriMaule"
+    },
+    {
+      "name": "AGROCEPIA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Agrocepia"
+    },
+    {
+      "name": "Agricola y Forestal Agrofuturo",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Agrofuturo"
+    },
+    {
+      "name": "Agromarchigue",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Agromarchigue"
+    },
+    {
+      "name": "Vivero Agromillora",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Agromillora"
+    },
+    {
+      "name": "Asociacion Chilena de Riego y Drenaje",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "AGRYD"
+    },
+    {
+      "name": "Asociacion Gremial de Productores Agricolas de San Antonio",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "AGSanAntonio"
+    },
+    {
+      "name": "Servicios de Ingenieria Aiguasol Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Aiguasol"
+    },
+    {
+      "name": "Asociacion Industriales Pesqueros (AIP)",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "AIP"
+    },
+    {
+      "name": "Alfa Chilena Alimentos Ltda",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "AlfaChilena"
+    },
+    {
+      "name": "Asociacion Chilena de Productores e Importadores de Alimentos y Suplementos Saludables",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "ALIMSA"
+    },
+    {
+      "name": "Agricola Pobeña Aceite de Oliva Alonso",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Alonso"
+    },
+    {
+      "name": "Asociacion Nacional de Industriales de Cecinas",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "ANIC"
+    },
+    {
+      "name": "Asociacion Nacional de Laboratorios Veterinarios AG",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "ANVET"
+    },
+    {
+      "name": "APICOOP",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "APICOOP"
+    },
+    {
+      "name": "Asociacion de Apicultores de la Sexta Region",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Apiunisexta"
+    },
+    {
+      "name": "Asociacion de Agricultores de Ñuble",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "APÑuble"
+    },
+    {
+      "name": "Asociacion Gremial de Productores de Leche de Osorno",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "APROLECHE"
+    },
+    {
+      "name": "Asociacion Gremial de Arroceros de Unicaven",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Arroceros Unicaven"
+    },
+    {
+      "name": "Asemafor SpA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "ASEMAFOR"
+    },
+    {
+      "name": "Asgreen Ingenieria Sustentable",
+      "degree": 4,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "ASGreen"
+    },
+    {
+      "name": "Asoc. Gremial de Industriales del Plastico de Chile",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "ASIPLA"
+    },
+    {
+      "name": "Asociacion de Productores de Ñuble",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "AsocProdÑuble"
+    },
+    {
+      "name": "Asociacion de Exportadores de Chile",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "ASOEX"
+    },
+    {
+      "name": "Asociacion Gremial de Productores de Cerdos de Chile",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "ASPROCER"
+    },
+    {
+      "name": "ASPROEX-Asociacion de Productores y Exportadores",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "ASPROEX"
+    },
+    {
+      "name": "AZ Ingenieria y Maquinas Ltda",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "AZMaquinas"
+    },
+    {
+      "name": "Beitia y Garcia Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Beitia y Garcia"
+    },
+    {
+      "name": "Beneo Group",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Beneo"
+    },
+    {
+      "name": "Distribuidora Biofresco Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Biofresco"
+    },
+    {
+      "name": "Bioingemar Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Bioingemar"
+    },
+    {
+      "name": "BIO INSUMO NATIVA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "BioInsumos Nativa"
+    },
+    {
+      "name": "Biotecnologia Fruticola SA",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Biotecnologia Fruticola"
+    },
+    {
+      "name": "A. G. de Pescadores Artesanales y Buzos Mariscadores de Caleta San Pedro, La Serena",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "BMPASanPedro"
+    },
+    {
+      "name": "Cooperativa Campesina Boroa Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Boroa"
+    },
+    {
+      "name": "Britt Steven Lewis Lewis",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "BSLewis"
+    },
+    {
+      "name": "Comercial Buena Mesa SpA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "BuenaMesa"
+    },
+    {
+      "name": "Comercializadora Julio Cesar Sleman Astudillo EIRL",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "C. JC Sleman"
+    },
+    {
+      "name": "Cooperativa Vitivinicola Cerro Negro Quillon Ltda.",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "C. Vit Cerro Negro Quillon"
+    },
+    {
+      "name": "Cerveza Artesanal Calle Calle y presidente Cerveceros Artesanales Los Rios AG",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Calle-Calle"
+    },
+    {
+      "name": "Carozzi",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Carozzi"
+    },
+    {
+      "name": "Sociedad de Asesorias y Servicios CASOL Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "CASOL"
+    },
+    {
+      "name": "Sociedad Comercial Casona El Monte Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Casona El Monte"
+    },
+    {
+      "name": "Consorcio de Cereales Funcionales SA",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "CCF"
+    },
+    {
+      "name": "Fabrica de Cecinas Loncoche",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "CecinasLoncoche"
+    },
+    {
+      "name": "Servicios en Bioseguridad y Calidad Alimentaria (CERES BCA)",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "CERES BCA"
+    },
+    {
+      "name": "Sociedad de Inversiones Cero Spa",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "CeroSpa"
+    },
+    {
+      "name": "Chacabuco Inversiones Ltda",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "ChacabucoInv"
+    },
+    {
+      "name": "Chilealimentos AG",
+      "degree": 14,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Chilealimentos"
+    },
+    {
+      "name": "Chile Botanics SA",
+      "degree": 3,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "ChileBotanics"
+    },
+    {
+      "name": "Asociacion Gremial de Productores y Exportadores de Nueces de Chile AG",
+      "degree": 4,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "CHILENUT"
+    },
+    {
+      "name": "Asociacion de Productores de Aceite de Oliva Chileno",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "CHILEOLIVA"
+    },
+    {
+      "name": "Clean Energy",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "CleanEnergy"
+    },
+    {
+      "name": "CODESSER",
+      "degree": 4,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Codesser"
+    },
+    {
+      "name": "MOLINOS  COLLICO (Kunstmann)",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Collico"
+    },
+    {
+      "name": "Colorado Chile",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "ColoradoChile"
+    },
+    {
+      "name": "Comercial CJ Ltda",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Comercial CJ"
+    },
+    {
+      "name": "Consorcio Tecnologico de la Industria Hortofruticola SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Consorcio dela Fruta"
+    },
+    {
+      "name": "Consorcio Tecnologico de la Leche SA",
+      "degree": 4,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Consorcio Lechero"
+    },
+    {
+      "name": "Coopeumo Ltda.",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Coopeumo"
+    },
+    {
+      "name": "Cooperativa de Productores de Quinua del Secano de O'Higgins",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Cooproquinoa"
+    },
+    {
+      "name": "Copefrut SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Copefrut"
+    },
+    {
+      "name": "Copeval",
+      "degree": 5,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "COPEVAL"
+    },
+    {
+      "name": "CRDP Maule",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "CRDP-Maule"
+    },
+    {
+      "name": "Empresa de Capacitacion Tecnologica Agricola Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "CT Agricola"
+    },
+    {
+      "name": "Sociedad Agricola y Comercial Dayenu Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Dayenu"
+    },
+    {
+      "name": "Sociedad Comercial DelightBerries Ltda.",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "DelightBerries"
+    },
+    {
+      "name": "Dilici",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Dilici"
+    },
+    {
+      "name": "Fabrica de Cecinas Maria Elena Yañez Hidalgo (Don Queco)",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "DonQueco"
+    },
+    {
+      "name": "Alimentos Doubleland SpA",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Doubleland"
+    },
+    {
+      "name": "Dueik SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Dueik"
+    },
+    {
+      "name": "Elaboradora y Extractora Ecocrea Ltda",
+      "degree": 4,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "EcoCrea"
+    },
+    {
+      "name": "Ecoparra SpA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Ecoparra SpA"
+    },
+    {
+      "name": "Ecoterra Agricola y Comercial Ltda",
+      "degree": 5,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Ecoterra"
+    },
+    {
+      "name": "Sociedad Ecotierra Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Ecotierra"
+    },
+    {
+      "name": "Alimentos Eggless SpA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Eggless"
+    },
+    {
+      "name": "CHOCOLATERÍA ENTRELAGOS ",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "EntreLagos"
+    },
+    {
+      "name": "Comercial Epullen Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Epullen"
+    },
+    {
+      "name": "Viña Errazuriz Dominguez SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Errazuriz Dominguez"
+    },
+    {
+      "name": "Fundacion Empresarial Comunidad Europea Chile",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "EuroChile"
+    },
+    {
+      "name": "Fundacion Chile - Centro Tongoy Alimentos y Biotecnologia",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "FCh-CTongoy"
+    },
+    {
+      "name": "Francisco Fuentes Carmona",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Fco Fuentes C."
+    },
+    {
+      "name": "FcuatroF",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "FcuatroF"
+    },
+    {
+      "name": "Fundacion Para El Desarrollo Fruticola - FDF",
+      "degree": 3,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "FDF"
+    },
+    {
+      "name": "Fechipan Capacitacion Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "FECHIPAN"
+    },
+    {
+      "name": "Federacion Gremial Nacional de Productores de Fruta",
+      "degree": 5,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "FEDEFRUTA"
+    },
+    {
+      "name": "Felipe Garcia Huidobro",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "FGarciaH"
+    },
+    {
+      "name": "Forestal Arauco SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "ForestalArauco"
+    },
+    {
+      "name": "Fruseptima",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Fruseptima"
+    },
+    {
+      "name": "Frusexta",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Frusexta"
+    },
+    {
+      "name": "Gabriel Bugueño (Produtor Caprino)",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "GBugueño"
+    },
+    {
+      "name": "Gestion de Calidad y Laboratorios S.A. Eurofins GCL",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "GCL"
+    },
+    {
+      "name": "Gregorio Correa",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "GCorrea"
+    },
+    {
+      "name": "Extractos Naturales Gelymar SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Gelymar"
+    },
+    {
+      "name": "Gesproinnova",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Gesproinnova"
+    },
+    {
+      "name": "GMT Foods SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "GMTFOODS"
+    },
+    {
+      "name": "Comercial GoodFood4U Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "GoodFood4U"
+    },
+    {
+      "name": "Elaboradora de Alimentos Gourmet Ltda",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Gourmet"
+    },
+    {
+      "name": "Granja Marina",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "GranjaMarina"
+    },
+    {
+      "name": "Granotec Chile SA",
+      "degree": 5,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Granotec"
+    },
+    {
+      "name": "Nutraceuticos Happy Plum Ltda",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Happy Plum"
+    },
+    {
+      "name": "Harting SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Härting"
+    },
+    {
+      "name": "Fabrica de Cecinas y Carnes HICAR",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "HICAR"
+    },
+    {
+      "name": "Hortifrut Chile SA",
+      "degree": 3,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Hortifrut"
+    },
+    {
+      "name": "Iansagro SA",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Iansagro"
+    },
+    {
+      "name": "IDOM",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "IDOM"
+    },
+    {
+      "name": "Imprenta A. Molina Flores SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Imprenta Molina"
+    },
+    {
+      "name": "Innovaciones en Cobre SA",
+      "degree": 3,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "INCuBA"
+    },
+    {
+      "name": "IncubatecUFRO",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "IncubatecUFRO"
+    },
+    {
+      "name": "Asociacion Gremial de los Industriales del Pan de Santiago",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "INDUPAN"
+    },
+    {
+      "name": "Integrity SA",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Integrity"
+    },
+    {
+      "name": "IQonsulting",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "IQConsulting"
+    },
+    {
+      "name": "Isla Natura Exportadora Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "IslaNatura"
+    },
+    {
+      "name": "Jose Antonio Galilea Vidaurre",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "JA Galilea"
+    },
+    {
+      "name": "Josefina Contardo (Avicultora)",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "JContardo"
+    },
+    {
+      "name": "Jaime Taladriz Canseco",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "JTaladriz"
+    },
+    {
+      "name": "Deshidratados Kadosh",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Kadosh"
+    },
+    {
+      "name": "Comercial Kimber SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Kimber"
+    },
+    {
+      "name": "Cerveceria Kunstmann",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Kunstmann"
+    },
+    {
+      "name": "Laboratorio Movil",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Lab Movil"
+    },
+    {
+      "name": "Comercializadora Y Exportadora Las Doscientas S.A.",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Las200"
+    },
+    {
+      "name": "Liliana Ester Nuñez",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "LENuñez"
+    },
+    {
+      "name": "Luisa Maria",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "LMaria"
+    },
+    {
+      "name": "Productos Lacteos Los Puquios Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Los Puquios"
+    },
+    {
+      "name": "Manki Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Manki"
+    },
+    {
+      "name": "Sociedad de Profesionales Maturana y Ortega Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Maturana y Ortega"
+    },
+    {
+      "name": "Marianela Belmar (Avicultora)",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "MBelmar"
+    },
+    {
+      "name": "Agricola Las Mercedes de Chiriuco SpA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "MercedesChiriuco"
+    },
+    {
+      "name": "Merken Biotech SpA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "MerkenBiotech"
+    },
+    {
+      "name": "Comercial Milanese y Cia Ltda",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Milanese"
+    },
+    {
+      "name": "NativeFood SpA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "NativeFood"
+    },
+    {
+      "name": "Natural Response SA",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Natural Response"
+    },
+    {
+      "name": "NITA S.A",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Nita"
+    },
+    {
+      "name": "Novaseed Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Novaseed"
+    },
+    {
+      "name": "NSF International",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "NSF"
+    },
+    {
+      "name": "Agricola Comercial del Choapa Ltda",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Nueces del Choapa"
+    },
+    {
+      "name": "Nutrapharm",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Nutrapharm"
+    },
+    {
+      "name": "Olivares de Quepu S.A.",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Olivares Quepu"
+    },
+    {
+      "name": "Olivos Exportaciones Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "OlivosExport"
+    },
+    {
+      "name": "Orafti Chile SA",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Orafti"
+    },
+    {
+      "name": "Origen SpA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Origen"
+    },
+    {
+      "name": "Cooperativa de Pescadores Artesanales de Los Vilos Ltda.",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "PALosVilos"
+    },
+    {
+      "name": "Papa Chile SpA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Papa Chile"
+    },
+    {
+      "name": "Papas Arcoiris",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Papas Arcoiris"
+    },
+    {
+      "name": "Suazo Gomez SA",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "PastasSuazo"
+    },
+    {
+      "name": "Sociedad Pesquera LAndes SA",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "PesqueraLAndes"
+    },
+    {
+      "name": "Michael A. Philip Mc Coll Roehrs, PesqueraE.I.R.L ",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "PesqueraMcColl"
+    },
+    {
+      "name": "Productos Fernandez SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "PF"
+    },
+    {
+      "name": "Pigmentos Naturales SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "PigmentosNaturales"
+    },
+    {
+      "name": "Prinal SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Prinal"
+    },
+    {
+      "name": "Productora Alysa SpA ",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Prodalysa"
+    },
+    {
+      "name": "Promauka",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Promauka"
+    },
+    {
+      "name": "Quijada y Quijada",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Quijada y Quijada"
+    },
+    {
+      "name": "Agricola y Lechera Quillayes Peteroa Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Quillayes"
+    },
+    {
+      "name": "Quimas SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Quimas"
+    },
+    {
+      "name": "Sociedad Agricola y comercial Rancho Azul Ltda",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "RanchoAzul"
+    },
+    {
+      "name": "Redagricola Comunicaciones",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "RedAgricola"
+    },
+    {
+      "name": "Red Nacional Apicola",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "RedApicola"
+    },
+    {
+      "name": "Quesos Runca",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Runca"
+    },
+    {
+      "name": "Planta Saint Andrews",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "SaintAndrews"
+    },
+    {
+      "name": "Samfood Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Samfood"
+    },
+    {
+      "name": "Agricola San Clemente ",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "SanClemente"
+    },
+    {
+      "name": "Viña Santa Carolina",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Santa Carolina"
+    },
+    {
+      "name": "Viña Santa Rita",
+      "degree": 3,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Santa Rita"
+    },
+    {
+      "name": "Sociedad Comercial Seakelp",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "SeaKelp"
+    },
+    {
+      "name": "Sociedad Agricola del Bio Bio AG",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Socabio"
+    },
+    {
+      "name": "Sociedad Alforfon Valdivia",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "SocAlforfonValdivia"
+    },
+    {
+      "name": "Sociedad Genetica y Semillas de Papas Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "SocGenSemPapas"
+    },
+    {
+      "name": "Comercial e Industrial Solutec Ltda",
+      "degree": 6,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Solutec"
+    },
+    {
+      "name": "Sociedad Nacional de Pesca",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "SONAPESCA"
+    },
+    {
+      "name": "Sopraval",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Sopraval"
+    },
+    {
+      "name": "Southam",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "SOUTHAM"
+    },
+    {
+      "name": "South Hemp SpA",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "SouthHemp"
+    },
+    {
+      "name": "South Pacific Seeds Chile SA",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "SPS"
+    },
+    {
+      "name": "Planta Sud Maris",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "SudMaris"
+    },
+    {
+      "name": "Südzucker AG",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Südzucker"
+    },
+    {
+      "name": "Sugal",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Sugal"
+    },
+    {
+      "name": "Sunenergreen SA",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "SUNENERGREEN"
+    },
+    {
+      "name": "Agroindustrial Surfrut Ltda",
+      "degree": 7,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Surfrut"
+    },
+    {
+      "name": "Team Foods SpA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Team Foods"
+    },
+    {
+      "name": "Tres Columnas Ltda",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Tres Columnas"
+    },
+    {
+      "name": "Tres Mares",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Tres Mares"
+    },
+    {
+      "name": "Tribus Fungi SpA  ",
+      "degree": 2,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "TribusFungi"
+    },
+    {
+      "name": "Tucapel",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Tucapel"
+    },
+    {
+      "name": "Union Nacional de la Agricultura Familiar Campesina Cooperativa",
+      "degree": 5,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "UNAF"
+    },
+    {
+      "name": "Viñas de Guarilihue SpA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "V. Guarilihue"
+    },
+    {
+      "name": "Watts SA",
+      "degree": 1,
+      "category": "Privado",
+      "ring": 2010,
+      "id": "Watts"
+    },
+    {
+      "id": "F Min Los Pelambres "
+    }
+  ],
+  "links": [
+    {
+      "value": 0,
+      "category": 1,
+      "source": "ACHIPIA",
+      "target": "TA-CE"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "ACHIPIA",
+      "target": "TA-Process"
+    },
+    {
+      "value": "MINAGRI",
+      "category": 0,
+      "source": "ACHIPIA",
+      "target": "MINAGRI"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "ACHIPIA",
+      "target": "Cultiva UChile AM"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "ACHIPIA",
+      "target": "FIE"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "ACHIPIA",
+      "target": "TA"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "ACHIPIA",
+      "target": "Estand & Fort DCI"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "ACHIPIA",
+      "target": "15BP-45344 AM"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "ACHIPIA",
+      "target": "16BPE-62330 AM"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "CDPR Maule",
+      "target": "PMauleOHiggins A"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "CDPR O'Higgins",
+      "target": "PMauleOHiggins A"
+    },
+    {
+      "value": 11,
+      "category": 1,
+      "source": "CIREN",
+      "target": "IFI-Fruticola"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "CIREN",
+      "target": "BPublicos"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "CIREN",
+      "target": "MINAGRI-BioBio"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "CIREN",
+      "target": "INIA-Quilamapu"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CONADI-LosLagos",
+      "target": "MejillonChile"
+    },
+    {
+      "value": "CEAP",
+      "category": 0,
+      "source": "CONICYT",
+      "target": "CEAP"
+    },
+    {
+      "value": "CREAS",
+      "category": 0,
+      "source": "CONICYT",
+      "target": "CREAS"
+    },
+    {
+      "value": "MINEDUC",
+      "category": 0,
+      "source": "CONICYT",
+      "target": "MINEDUC"
+    },
+    {
+      "value": 7,
+      "category": 1,
+      "source": "CORFO",
+      "target": "GCT"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "CORFO",
+      "target": "TA-VIP"
+    },
+    {
+      "value": "MINECON",
+      "category": 0,
+      "source": "CORFO",
+      "target": "MINECON"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO",
+      "target": "GDC"
+    },
+    {
+      "value": "Otros",
+      "category": 1,
+      "source": "CORFO",
+      "target": "TA"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "CORFO",
+      "target": "FIE"
+    },
+    {
+      "value": "Otros",
+      "category": 1,
+      "source": "CORFO",
+      "target": "Innova"
+    },
+    {
+      "value": 13,
+      "category": 1,
+      "source": "CORFO",
+      "target": "PIA+S"
+    },
+    {
+      "value": 19,
+      "category": 1,
+      "source": "CORFO",
+      "target": "GDE"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO",
+      "target": "FrutiSust"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO",
+      "target": "Horticrece"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO",
+      "target": "MauleAlimenta"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO",
+      "target": "CORFO-Coquimbo"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO",
+      "target": "CORFO-LosLagos"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO",
+      "target": "CORFO-LosRios"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO",
+      "target": "CORFO-Maule"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO",
+      "target": "CORFO-OHiggins"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO",
+      "target": "CORFO-Valpo"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO-Coquimbo",
+      "target": "MasMar"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO-LosLagos",
+      "target": "MejillonChile"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO-LosRios",
+      "target": "AVALosRios"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO-Maule",
+      "target": "MauleAlimenta"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO-OHiggins",
+      "target": "Horticrece"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CORFO-Valpo",
+      "target": "FrutiSust"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "CPL",
+      "target": "EstandarNC-CTS"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "DIRECON",
+      "target": "PROCHILE"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "DIRECON",
+      "target": "MINREL"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "FIA",
+      "target": "TA-CE"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "FIA",
+      "target": "TA-Fruti"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "FIA",
+      "target": "TA-Process"
+    },
+    {
+      "value": "MINAGRI",
+      "category": 0,
+      "source": "FIA",
+      "target": "MINAGRI"
+    },
+    {
+      "value": 13,
+      "category": 1,
+      "source": "FIA",
+      "target": "TA"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "FIA",
+      "target": "I+D Empresarial FIA"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "FIA",
+      "target": "FIE"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "FIA",
+      "target": "Polos"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "FIA",
+      "target": "EstandarNC-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "FIA",
+      "target": "EstandarAF-CTS"
+    },
+    {
+      "value": 13,
+      "category": 1,
+      "source": "FIA",
+      "target": "PIA+S"
+    },
+    {
+      "value": 14,
+      "category": 1,
+      "source": "FIE",
+      "target": "SAG"
+    },
+    {
+      "value": "MINECON",
+      "category": 1,
+      "source": "FIE",
+      "target": "MINECON"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "GCT",
+      "target": "TA-CE"
+    },
+    {
+      "value": 1,
+      "category": 1,
+      "source": "GCT",
+      "target": "CTI's"
+    },
+    {
+      "value": 7,
+      "category": 1,
+      "source": "GCT",
+      "target": "PTECs"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "GDC",
+      "target": "TA-CE"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "GDC",
+      "target": "COPEVAL"
+    },
+    {
+      "value": "Otros",
+      "category": 1,
+      "source": "GDC",
+      "target": "IFI"
+    },
+    {
+      "value": "Otros",
+      "category": 1,
+      "source": "GDC",
+      "target": "AProy Estrategicos"
+    },
+    {
+      "value": "Otros",
+      "category": 1,
+      "source": "GDC",
+      "target": "Nodo"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "GDC",
+      "target": "AVALosRios"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "GDC",
+      "target": "FrutiSust"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "GDC",
+      "target": "Horticrece"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "GDC",
+      "target": "MasMar"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "GDC",
+      "target": "MauleAlimenta"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "GDC",
+      "target": "MejillonChile"
+    },
+    {
+      "value": 19,
+      "category": 1,
+      "source": "GDE",
+      "target": "SSAF"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "GR-Coquimbo",
+      "target": "MasMar"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "GR-LosLagos",
+      "target": "MejillonChile"
+    },
+    {
+      "value": "CEAP",
+      "category": 0,
+      "source": "GR-Maule",
+      "target": "CEAP"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "GR-Maule",
+      "target": "MauleAlimenta"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "GR-OHiggins",
+      "target": "Horticrece"
+    },
+    {
+      "value": "CREAS",
+      "category": 0,
+      "source": "GR-Valpo",
+      "target": "CREAS"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "GR-Valpo",
+      "target": "FrutiSust"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "INDAP",
+      "target": "Ecoterra"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "INDAP",
+      "target": "PIFA A"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "INDAP",
+      "target": "INDAP Bio-Bio"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "INDAP",
+      "target": "INDAP Maule"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "INDAP",
+      "target": "INDAP O´Higgins"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "INDAP",
+      "target": "Cultiva UChile AM"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "INDAP",
+      "target": "ContaQuim-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "INDAP",
+      "target": "EstandarNC-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "INDAP",
+      "target": "EstandarAF-CTS"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "INDAP",
+      "target": "MINAGRI"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "INDAP",
+      "target": "16BPE-62273 AM"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "INDAP",
+      "target": "INDAP-LosRios"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "INDAP Bio-Bio",
+      "target": "Secano A"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "INDAP Maule",
+      "target": "Secano A"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "INDAP O´Higgins",
+      "target": "Secano A"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "INDAP-LosRios",
+      "target": "AVALosRios"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "INFOR",
+      "target": "PMauleOHiggins A"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "INN",
+      "target": "SNILabsAS-CTS"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "INN",
+      "target": "BPublicos"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "INN",
+      "target": "16BPE-62292 AM"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "Innova",
+      "target": "I+D Empresarial"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "Innova",
+      "target": "CETs"
+    },
+    {
+      "value": "Otros",
+      "category": 1,
+      "source": "Innova",
+      "target": "BPublicos"
+    },
+    {
+      "value": "Otros",
+      "category": 1,
+      "source": "Innova",
+      "target": "ProgDifTec"
+    },
+    {
+      "value": "Otros",
+      "category": 1,
+      "source": "Innova",
+      "target": "P Fort Capacidades"
+    },
+    {
+      "value": 16,
+      "category": 1,
+      "source": "INVESTCHILE",
+      "target": "TA"
+    },
+    {
+      "value": "MINECON",
+      "category": 0,
+      "source": "INVESTCHILE",
+      "target": "MINECON"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "ISP",
+      "target": "SNILabsAS-CTS"
+    },
+    {
+      "value": "MINSAL",
+      "category": 0,
+      "source": "ISP",
+      "target": "MINSAL"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "ISP",
+      "target": "16BPE-62273 AM"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "MINAGRI",
+      "target": "TA-CE"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "MINAGRI",
+      "target": "TA-VIP"
+    },
+    {
+      "value": "MINAGRI",
+      "category": 0,
+      "source": "MINAGRI",
+      "target": "INIA"
+    },
+    {
+      "value": "MINAGRI",
+      "category": 0,
+      "source": "MINAGRI",
+      "target": "ODEPA"
+    },
+    {
+      "value": "MINAGRI",
+      "category": 0,
+      "source": "MINAGRI",
+      "target": "MINAGRI-BioBio"
+    },
+    {
+      "value": "MINAGRI",
+      "category": 0,
+      "source": "MINAGRI",
+      "target": "SAG"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINAGRI",
+      "target": "MINAGRI-LosRios"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINAGRI",
+      "target": "MINAGRI-Maule"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINAGRI",
+      "target": "MINAGRI-OHiggins"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINAGRI",
+      "target": "MINAGRI-Valpo"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINAGRI-LosRios",
+      "target": "AVALosRios"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINAGRI-Maule",
+      "target": "MauleAlimenta"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINAGRI-OHiggins",
+      "target": "Horticrece"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINAGRI-Valpo",
+      "target": "FrutiSust"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "MINECON",
+      "target": "TA-VIP"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINECON",
+      "target": "SERCOTEC"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINECON",
+      "target": "SERNAPESCA"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINECON",
+      "target": "SUBPESCA"
+    },
+    {
+      "value": "MINECON",
+      "category": 0,
+      "source": "MINECON",
+      "target": "Subsecretaria Economia"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINECON",
+      "target": "MINECON-Coquimbo"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINECON",
+      "target": "MINECON-LosLagos"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINECON",
+      "target": "MINECON-LosRios"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINECON",
+      "target": "MINECON-OHiggins"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINECON",
+      "target": "MINECON-Valpo"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINECON-Coquimbo",
+      "target": "MasMar"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINECON-LosLagos",
+      "target": "MejillonChile"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINECON-LosRios",
+      "target": "AVALosRios"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINECON-OHiggins",
+      "target": "Horticrece"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MINECON-Valpo",
+      "target": "FrutiSust"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "MINSAL",
+      "target": "SNILabsAS-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "MINSAL",
+      "target": "ContaQuim-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "MINSAL",
+      "target": "EstandarNC-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "MINSAL",
+      "target": "EstandarAF-CTS"
+    },
+    {
+      "value": "MINSAL",
+      "category": 0,
+      "source": "MINSAL",
+      "target": "MINSAL - D.P. Publicas"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "MINSAL - D.P. Publicas",
+      "target": "TA-Process"
+    },
+    {
+      "value": 14,
+      "category": 1,
+      "source": "MINSAL - S Redes Asistenciales",
+      "target": "15BPE-47219 AM"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MOP-Valpo",
+      "target": "FrutiSust"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "MuniNavidad",
+      "target": "Secano A"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "ODEPA",
+      "target": "TA-CE"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "ODEPA",
+      "target": "TA-Fruti"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "ODEPA",
+      "target": "IFI-Cero Perdidas"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "ODEPA",
+      "target": "Consorcio Lechero"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "ODEPA",
+      "target": "CHILEOLIVA"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "PERLosRios",
+      "target": "EstandarNC-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "PERMaule",
+      "target": "EstandarAF-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "PEROHiggins",
+      "target": "ContaQuim-CTS"
+    },
+    {
+      "value": 17,
+      "category": 1,
+      "source": "PROCHILE",
+      "target": "TA"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "PROCHILE",
+      "target": "15BP-45344 AM"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "PROCHILE",
+      "target": "FrutiSust"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "PROCHILE",
+      "target": "MauleAlimenta"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "PROCHILE",
+      "target": "PROCHILE-LosLagos"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "PROCHILE",
+      "target": "PROCHILE-OHiggins"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "PROCHILE-LosLagos",
+      "target": "MejillonChile"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "PROCHILE-OHiggins",
+      "target": "Horticrece"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Prodesal-Paredones",
+      "target": "GAncestrales C"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "SAG",
+      "target": "AcuaFood"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "SAG",
+      "target": "SNILabsAS-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "SAG",
+      "target": "ContaQuim-CTS"
+    },
+    {
+      "value": 11,
+      "category": 1,
+      "source": "SAG",
+      "target": "IFI-Fruticola"
+    },
+    {
+      "value": 14,
+      "category": 1,
+      "source": "SAG",
+      "target": "eCERT"
+    },
+    {
+      "value": 14,
+      "category": 1,
+      "source": "SAG",
+      "target": "TA"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "SAG",
+      "target": "15BP-45344 AM"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "SAG",
+      "target": "16BPE-62330 AM"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "SERCOTEC",
+      "target": "EstandarNC-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "SERCOTEC",
+      "target": "EstandarAF-CTS"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "SERCOTEC",
+      "target": "SERCOTEC-Coquimbo"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "SERCOTEC",
+      "target": "SERCOTEC-LosLagos"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "SERCOTEC-Coquimbo",
+      "target": "MasMar"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "SERCOTEC-LosLagos",
+      "target": "MejillonChile"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "SERNAPESCA",
+      "target": "SNILabsAS-CTS"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "SERNAPESCA",
+      "target": "SERNAPESCA-LosLagos"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "SERNAPESCA-LosLagos",
+      "target": "MejillonChile"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "SUBPESCA",
+      "target": "TA-Process"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "SUBPESCA",
+      "target": "SUBPESCA-Atacama Coquimbo"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "SUBPESCA",
+      "target": "SUBPESCA-LosLagos"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "SUBPESCA-Atacama Coquimbo",
+      "target": "MasMar"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "SUBPESCA-LosLagos",
+      "target": "MejillonChile"
+    },
+    {
+      "value": 14,
+      "category": 1,
+      "source": "Subsecretaria Agricultura",
+      "target": "15BPE-47219 AM"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "Subsecretaria Agricultura",
+      "target": "15BP-45394 AM"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "Subsecretaria Agricultura",
+      "target": "16BPE-62273 AM"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "Subsecretaria Agricultura",
+      "target": "INIA"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "Subsecretaria Agricultura",
+      "target": "16BPE-62292 AM"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "Subsecretaria Economia",
+      "target": "EstandarNC-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "Subsecretaria Economia",
+      "target": "EstandarAF-CTS"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA",
+      "target": "COPEVAL"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA",
+      "target": "TA-VIP"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA",
+      "target": "TA-CE"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA",
+      "target": "TA-Fruti"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA",
+      "target": "TA-Process"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-CE",
+      "target": "Chilealimentos"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-CE",
+      "target": "UCentral"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Fruti",
+      "target": "APÑuble"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Fruti",
+      "target": "ASOEX"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Fruti",
+      "target": "Chilealimentos"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Fruti",
+      "target": "FEDEFRUTA"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Fruti",
+      "target": "Fruseptima"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Fruti",
+      "target": "Hortifrut"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Fruti",
+      "target": "INIA"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Fruti",
+      "target": "Surfrut"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Fruti",
+      "target": "UCentral"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Process",
+      "target": "C. Ciudadano"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Process",
+      "target": "Carozzi"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Process",
+      "target": "Chilealimentos"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Process",
+      "target": "ChileBotanics"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Process",
+      "target": "Granotec"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Process",
+      "target": "INTA"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Process",
+      "target": "Nutrapharm"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Process",
+      "target": "SONAPESCA"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Process",
+      "target": "SPS"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-Process",
+      "target": "UChile-Subdire Innovacion"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-VIP",
+      "target": "Granotec"
+    },
+    {
+      "value": 0,
+      "category": 1,
+      "source": "TA-VIP",
+      "target": "Surfrut"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "CAPCHICAL",
+      "target": "EstandarNC-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "CAPCHICAL",
+      "target": "EstandarAF-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "FAVET-UChile",
+      "target": "ContaQuim-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "FAVET-UChile",
+      "target": "Estand & Fort DCI"
+    },
+    {
+      "value": 1,
+      "category": 1,
+      "source": "PUC",
+      "target": "CeTA"
+    },
+    {
+      "value": 1,
+      "category": 1,
+      "source": "PUC",
+      "target": "CTI's"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "PUC",
+      "target": "Solutec"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "PUC",
+      "target": "IFAN-C"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "PUC",
+      "target": "CO-INVENTA C"
+    },
+    {
+      "value": 6,
+      "category": 1,
+      "source": "PUC",
+      "target": "FrutiCentroSur C"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PUC",
+      "target": "Polos"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PUC",
+      "target": "Secano"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PUC",
+      "target": "PIFA C"
+    },
+    {
+      "value": 15,
+      "category": 1,
+      "source": "PUC",
+      "target": "PDT"
+    },
+    {
+      "value": 5,
+      "category": 1,
+      "source": "PUCV",
+      "target": "FrutiCentroNorte C"
+    },
+    {
+      "value": "CREAS",
+      "category": 0,
+      "source": "PUCV",
+      "target": "CREAS"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "PUCV",
+      "target": "PUCV-Agronomia"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "PUCV - NBC",
+      "target": "Prodalysa"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "PUCV-Agronomia",
+      "target": "FrutiSust"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "R2B Catalyst",
+      "target": "TribusFungi"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "SOCHITAL",
+      "target": "EstandarNC-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "SOCHITAL",
+      "target": "EstandarAF-CTS"
+    },
+    {
+      "value": 7,
+      "category": 1,
+      "source": "UACh",
+      "target": "FrutiSur C"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "UACh",
+      "target": "AVALosRios"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "UAndresBello",
+      "target": "IFAN-C"
+    },
+    {
+      "value": 5,
+      "category": 1,
+      "source": "UAndresBello",
+      "target": "FrutiCentroNorte I"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UBIOBIO",
+      "target": "I+D Empresarial FIA"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UBIOBIO",
+      "target": "GMTFOODS"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "UCentral",
+      "target": "Secano C"
+    },
+    {
+      "value": 1,
+      "category": 1,
+      "source": "UChile",
+      "target": "CeTA-C"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UChile",
+      "target": "AChoapa"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "UChile",
+      "target": "CO-INVENTA C"
+    },
+    {
+      "value": 5,
+      "category": 1,
+      "source": "UChile",
+      "target": "FrutiCentroNorte I"
+    },
+    {
+      "value": 7,
+      "category": 1,
+      "source": "UChile",
+      "target": "FrutiSur"
+    },
+    {
+      "value": 7,
+      "category": 1,
+      "source": "UChile",
+      "target": "PTECs"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "UChile",
+      "target": "Cultiva UChile"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "UChile",
+      "target": "CETs"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UChile-CBMV",
+      "target": "Biotecnologia Fruticola"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UChile-FMed",
+      "target": "CHILENUT"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "UCMaule",
+      "target": "PMauleOHiggins C"
+    },
+    {
+      "value": "CEAP",
+      "category": 0,
+      "source": "UCMaule",
+      "target": "CEAP"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "UCN",
+      "target": "MasMar"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UConce",
+      "target": "SUNENERGREEN"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UConce",
+      "target": "I+D Empresarial FIA"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UConce",
+      "target": "CRRecolectoresVIII"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UConce",
+      "target": "ForestalArauco"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UConce",
+      "target": "TAccionCultural"
+    },
+    {
+      "value": 6,
+      "category": 1,
+      "source": "UConce",
+      "target": "FrutiCentroSur C"
+    },
+    {
+      "value": 7,
+      "category": 1,
+      "source": "UConce",
+      "target": "FrutiSur C"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "UConce",
+      "target": "GAncestrales C"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "UConce",
+      "target": "CEVS C"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "UConce",
+      "target": "INIA"
+    },
+    {
+      "value": 9,
+      "category": 1,
+      "source": "UConce - CDT Agroindustrial",
+      "target": "CET-AProcesados AM"
+    },
+    {
+      "value": 9,
+      "category": 1,
+      "source": "UConce - FI Agricola",
+      "target": "CET-AProcesados AM"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UConce - UDT",
+      "target": "PesqueraLAndes"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UConce-CBiotec",
+      "target": "Iansagro"
+    },
+    {
+      "value": 1,
+      "category": 1,
+      "source": "UFRO",
+      "target": "CeTA-C"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UFRO",
+      "target": "I+D Empresarial FIA"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UFRO",
+      "target": "CecinasLoncoche"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UFRO",
+      "target": "DonQueco"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UFRO",
+      "target": "HICAR"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UFRO",
+      "target": "Novaseed"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UFRO",
+      "target": "Papas Arcoiris"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UFRO",
+      "target": "SocGenSemPapas"
+    },
+    {
+      "value": 7,
+      "category": 1,
+      "source": "UFRO",
+      "target": "FrutiSur C"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "ULaSerena",
+      "target": "MasMar"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "ULosAndes",
+      "target": "ChacabucoInv"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "ULosAndes",
+      "target": "IFAN-C"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "ULosAndes",
+      "target": "15CET1-38847 AM"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "UMagallanes",
+      "target": "IFAN-C"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "USACH",
+      "target": "AlfaChilena"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "USACH",
+      "target": "I+D Empresarial FIA"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "USACH",
+      "target": "CO-INVENTA"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "USACH",
+      "target": "PTECs"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "USACH",
+      "target": "SNILabsAS-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "USACH",
+      "target": "Estand & Fort DCI"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "USACH",
+      "target": "16BPE-62273 AM"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "USACH",
+      "target": "BPublicos"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "USACH-LABEN",
+      "target": "Integrity"
+    },
+    {
+      "value": 11,
+      "category": 1,
+      "source": "UST",
+      "target": "IFI-Fruticola"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "UST",
+      "target": "MejillonChile"
+    },
+    {
+      "value": 1,
+      "category": 1,
+      "source": "UTalca",
+      "target": "CeTA-C"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "UTalca",
+      "target": "CO-INVENTA C"
+    },
+    {
+      "value": 5,
+      "category": 1,
+      "source": "UTalca",
+      "target": "FrutiCentroNorte I"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "UTalca",
+      "target": "Secano C"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "UTalca",
+      "target": "PMauleOHiggins C"
+    },
+    {
+      "value": 9,
+      "category": 1,
+      "source": "UTalca",
+      "target": "CET-AProcesados AM"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "UTalca",
+      "target": "EstandarAF-CTS"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "UTalca",
+      "target": "Estand & Fort DCI"
+    },
+    {
+      "value": "CEAP",
+      "category": 0,
+      "source": "UTalca",
+      "target": "CEAP"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UTFSM",
+      "target": "Lab Movil"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UTFSM",
+      "target": "Milanese"
+    },
+    {
+      "value": 5,
+      "category": 1,
+      "source": "UTFSM",
+      "target": "FrutiCentroNorte I"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "UTFSM",
+      "target": "15CET1-38847 AM"
+    },
+    {
+      "value": "CREAS",
+      "category": 0,
+      "source": "UTFSM",
+      "target": "CREAS"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "UTM",
+      "target": "Solutec"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "UTM",
+      "target": "CO-INVENTA C"
+    },
+    {
+      "value": "CREAS",
+      "category": 0,
+      "source": "UV",
+      "target": "CREAS"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "15BP-45344 AM",
+      "target": "FCh"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "15BP-45344 AM",
+      "target": "Chilealimentos"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "15BP-45394 AM",
+      "target": "AG C. Rubro Arroz"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "15BP-45394 AM",
+      "target": "Arroceros Unicaven"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "15BP-45394 AM",
+      "target": "C. Arrocero Otingue y otros"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "15BP-45394 AM",
+      "target": "C. Arroz Millauquen Unido"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "15BP-45394 AM",
+      "target": "C. Crucero de Buli"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "15BP-45394 AM",
+      "target": "INIA"
+    },
+    {
+      "value": 14,
+      "category": 1,
+      "source": "15BPE-47219 AM",
+      "target": "CERES BCA"
+    },
+    {
+      "value": 14,
+      "category": 1,
+      "source": "15BPE-47219 AM",
+      "target": "Chilealimentos"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "15CET1-38847 AM",
+      "target": "INDUPAN"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "15CET1-38847 AM",
+      "target": "Maturana y Ortega"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "15CET1-38847 AM",
+      "target": "UIBC"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "16BPE-62273 AM",
+      "target": "Chilealimentos"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "16BPE-62292 AM",
+      "target": "Chilealimentos"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "16BPE-62330 AM",
+      "target": "ASPROCER"
+    },
+    {
+      "value": "Otros",
+      "category": 3,
+      "source": "AProy Estrategicos",
+      "target": "Tres Columnas"
+    },
+    {
+      "value": 14,
+      "category": 1,
+      "source": "BPublicos",
+      "target": "CERES BCA"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "BPublicos",
+      "target": "FCh"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "BPublicos",
+      "target": "INIA"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "BPublicos",
+      "target": "Consorcio Lechero"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "BPublicos",
+      "target": "ASPROCER"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "BPublicos",
+      "target": "CHILEOLIVA"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "Estand & Fort DCI",
+      "target": "INTA"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial",
+      "target": "L1"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial",
+      "target": "L2"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial",
+      "target": "L3"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial FIA",
+      "target": "C. JC Sleman"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial FIA",
+      "target": "CHILENUT"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial FIA",
+      "target": "Ecoterra"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial FIA",
+      "target": "Robinson Crusoe"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial FIA",
+      "target": "Epullen"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial FIA",
+      "target": "Bioingemar"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial FIA",
+      "target": "LofKumikir"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial FIA",
+      "target": "AChoapa"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial FIA",
+      "target": "Solutec"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial FIA",
+      "target": "Biofresco"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial FIA",
+      "target": "TribusFungi"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial FIA",
+      "target": "Milanese"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial FIA",
+      "target": "EcoCrea"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial FIA",
+      "target": "CREAS"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "I+D Empresarial FIA",
+      "target": "Comercial CJ"
+    },
+    {
+      "value": 11,
+      "category": 1,
+      "source": "IFI",
+      "target": "IFI-Fruticola"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "IFI",
+      "target": "IFI-Cero Perdidas"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "IFI",
+      "target": "SOUTHAM"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "Los Puquios"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "Team Foods"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "SPS"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "Gourmet"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "CASOL"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "ASEMAFOR"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "Aiguasol"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "SeaKelp"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "Casona El Monte"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "Solutec"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "BSLewis"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "Eggless"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "Doubleland"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "Imprenta Molina"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "MercedesChiriuco"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L1",
+      "target": "PastasSuazo"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L2",
+      "target": "Quimas"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L2",
+      "target": "DICTUC"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L2",
+      "target": "Surfrut"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L2",
+      "target": "AcuaFood"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L2",
+      "target": "Doubleland"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L2",
+      "target": "Origen"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L2",
+      "target": "BuenaMesa"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L2",
+      "target": "Gourmet"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L2",
+      "target": "Hortifrut"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L2",
+      "target": "EcoCrea"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "Happy Plum"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "Sopraval"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "Nueces del Choapa"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "Santa Rita"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "Solutec"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "Lab Movil"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "FcuatroF"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "INCuBA"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "SouthHemp"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "SUNENERGREEN"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "RanchoAzul"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "ChacabucoInv"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "Natural Response"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "PesqueraMcColl"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "Prodalysa"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "Biotecnologia Fruticola"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "PesqueraLAndes"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "Agrofuturo"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "Iansagro"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "Integrity"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "AlfaChilena"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "L3",
+      "target": "AZMaquinas"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "Nodo",
+      "target": "COPEVAL"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "P Fort Capacidades",
+      "target": "Codesser"
+    },
+    {
+      "value": "Otros",
+      "category": 1,
+      "source": "PDT",
+      "target": "ProgDifTec"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "PDT",
+      "target": "Abud Sittler"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "PDT",
+      "target": "Codesser"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "PDT",
+      "target": "COPEVAL"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "PDT",
+      "target": "Santa Carolina"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "PDT",
+      "target": "RedAgricola"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "PDT",
+      "target": "FECHIPAN"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "PDT",
+      "target": "Papa Chile"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "PDT",
+      "target": "Dayenu"
+    },
+    {
+      "value": "Otros",
+      "category": 1,
+      "source": "PPT",
+      "target": "ProgDifTec"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "PPT",
+      "target": "EuroChile"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "PPT",
+      "target": "CHILENUT"
+    },
+    {
+      "value": "Otros",
+      "category": 3,
+      "source": "PPT",
+      "target": "Consorcio Lechero"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "PTECs",
+      "target": "CCF"
+    },
+    {
+      "value": 5,
+      "category": 1,
+      "source": "PTECs",
+      "target": "Biofrutales"
+    },
+    {
+      "value": 6,
+      "category": 1,
+      "source": "PTECs",
+      "target": "FDF"
+    },
+    {
+      "value": 19,
+      "category": 1,
+      "source": "SSAF",
+      "target": "IncubatecUFRO"
+    },
+    {
+      "value": 19,
+      "category": 1,
+      "source": "SSAF",
+      "target": "Hortifrut"
+    },
+    {
+      "value": 1,
+      "category": 1,
+      "source": "CeTA-A",
+      "target": "AB Chile"
+    },
+    {
+      "value": 1,
+      "category": 1,
+      "source": "CeTA-A",
+      "target": "CeTA"
+    },
+    {
+      "value": 1,
+      "category": 1,
+      "source": "CeTA-A",
+      "target": "Härting"
+    },
+    {
+      "value": 1,
+      "category": 1,
+      "source": "CeTA-C",
+      "target": "CeTA"
+    },
+    {
+      "value": 1,
+      "category": 1,
+      "source": "CeTA-C",
+      "target": "FCh"
+    },
+    {
+      "value": 1,
+      "category": 1,
+      "source": "CeTA-C",
+      "target": "Fraunhofer Chile"
+    },
+    {
+      "value": 9,
+      "category": 1,
+      "source": "CET-AProcesados AM",
+      "target": "CET-AProcesados"
+    },
+    {
+      "value": 9,
+      "category": 1,
+      "source": "CET-AProcesados AM",
+      "target": "CREAS"
+    },
+    {
+      "value": 9,
+      "category": 1,
+      "source": "CET-AProcesados AM",
+      "target": "Frusexta"
+    },
+    {
+      "value": 9,
+      "category": 1,
+      "source": "CET-AProcesados AM",
+      "target": "INIA"
+    },
+    {
+      "value": 9,
+      "category": 1,
+      "source": "CET-AProcesados C",
+      "target": "CET-AProcesados"
+    },
+    {
+      "value": 9,
+      "category": 1,
+      "source": "CET-AProcesados C",
+      "target": "Chilealimentos"
+    },
+    {
+      "value": 9,
+      "category": 1,
+      "source": "CET-AProcesados C",
+      "target": "FCh"
+    },
+    {
+      "value": 9,
+      "category": 1,
+      "source": "CET-AProcesados C",
+      "target": "Gesproinnova"
+    },
+    {
+      "value": 9,
+      "category": 1,
+      "source": "CET-AProcesados C",
+      "target": "UCDavis"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "CETs",
+      "target": "FEDEFRUTA"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "CETs",
+      "target": "INDUPAN"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "CETs",
+      "target": "Chilealimentos"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "CETs",
+      "target": "UCDavis"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "CEVS AM",
+      "target": "C. Vit Cerro Negro Quillon"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "CEVS AM",
+      "target": "CEVS"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "CEVS AM",
+      "target": "Ecoparra SpA"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "CEVS AM",
+      "target": "Errazuriz Dominguez"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "CEVS AM",
+      "target": "V. Guarilihue"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "CEVS C",
+      "target": "CEVS"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "CEVS C",
+      "target": "INIA"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "CO-INVENTA A",
+      "target": "ASIPLA"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "CO-INVENTA A",
+      "target": "Chilealimentos"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "CO-INVENTA A",
+      "target": "CO-INVENTA"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "CO-INVENTA C",
+      "target": "CO-INVENTA"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "CO-INVENTA C",
+      "target": "CREAS"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "CO-INVENTA I",
+      "target": "AChoapa"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "CO-INVENTA I",
+      "target": "CleanEnergy"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "CO-INVENTA I",
+      "target": "CO-INVENTA"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "CO-INVENTA I",
+      "target": "IslaNatura"
+    },
+    {
+      "value": 4,
+      "category": 1,
+      "source": "CO-INVENTA I",
+      "target": "Samfood"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Colorantes",
+      "target": "INIA"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Colorantes",
+      "target": "Colorantes A"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Colorantes",
+      "target": "Colorantes C"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Colorantes A",
+      "target": "Quijada y Quijada"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Colorantes A",
+      "target": "ULiverpool"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Colorantes C",
+      "target": "ACeres"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Colorantes C",
+      "target": "AGHAraucania"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Colorantes C",
+      "target": "AGSanAntonio"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Colorantes C",
+      "target": "Boroa"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Colorantes C",
+      "target": "CeroSpa"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Colorantes C",
+      "target": "DelightBerries"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Colorantes C",
+      "target": "EcoCrea"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "ContaQuim-CTS",
+      "target": "AFIPA"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "ContaQuim-CTS",
+      "target": "ANVET"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "ContaQuim-CTS",
+      "target": "Consorcio Lechero"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "ContaQuim-CTS",
+      "target": "Cultiva UChile"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "ContaQuim-CTS",
+      "target": "INIA"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "ContaQuim-CTS",
+      "target": "RedApicola"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "ContaQuim-CTS",
+      "target": "UNAF"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "CP Manzanas",
+      "target": "Afe"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "CP Manzanas",
+      "target": "ASGreen"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "CP Manzanas",
+      "target": "Kadosh"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "CP Manzanas",
+      "target": "SanClemente"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "CP Manzanas",
+      "target": "Surfrut"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "CP Olivas",
+      "target": "Agromarchigue"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "CP Olivas",
+      "target": "Alonso"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "CP Olivas",
+      "target": "ASGreen"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "CP Olivas",
+      "target": "Las200"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "CP Olivas",
+      "target": "Olivares Quepu"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "Cultiva UChile AM",
+      "target": "CE Rosario"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "Cultiva UChile AM",
+      "target": "Cultiva UChile"
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "Cultiva UChile AM",
+      "target": "UNAF"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "EstandarAF-CTS",
+      "target": "ALIMSA"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "EstandarAF-CTS",
+      "target": "Chilealimentos"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "EstandarAF-CTS",
+      "target": "Granotec"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "EstandarAF-CTS",
+      "target": "INIA"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "EstandarAF-CTS",
+      "target": "UNAF"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "EstandarNC-CTS",
+      "target": "INTA"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "EstandarNC-CTS",
+      "target": "ANIC"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "EstandarNC-CTS",
+      "target": "APROLECHE"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "EstandarNC-CTS",
+      "target": "CeTA"
+    },
+    {
+      "value": 10,
+      "category": 1,
+      "source": "EstandarNC-CTS",
+      "target": "UNAF"
+    },
+    {
+      "value": 5,
+      "category": 1,
+      "source": "FrutiCentroNorte C",
+      "target": "FrutiCentroNorte"
+    },
+    {
+      "value": 5,
+      "category": 1,
+      "source": "FrutiCentroNorte C",
+      "target": "INIA"
+    },
+    {
+      "value": 5,
+      "category": 1,
+      "source": "FrutiCentroNorte I",
+      "target": "FCh"
+    },
+    {
+      "value": 5,
+      "category": 1,
+      "source": "FrutiCentroNorte I",
+      "target": "FrutiCentroNorte"
+    },
+    {
+      "value": 6,
+      "category": 1,
+      "source": "FrutiCentroSur C",
+      "target": "Consorcio dela Fruta"
+    },
+    {
+      "value": 6,
+      "category": 1,
+      "source": "FrutiCentroSur C",
+      "target": "FrutiCentroSur"
+    },
+    {
+      "value": 6,
+      "category": 1,
+      "source": "FrutiCentroSur C",
+      "target": "INIA"
+    },
+    {
+      "value": 7,
+      "category": 1,
+      "source": "FrutiSur A",
+      "target": "Copefrut"
+    },
+    {
+      "value": 7,
+      "category": 1,
+      "source": "FrutiSur A",
+      "target": "FrutiSur"
+    },
+    {
+      "value": 7,
+      "category": 1,
+      "source": "FrutiSur C",
+      "target": "CEAF"
+    },
+    {
+      "value": 7,
+      "category": 1,
+      "source": "FrutiSur C",
+      "target": "FrutiSur"
+    },
+    {
+      "value": 7,
+      "category": 1,
+      "source": "FrutiSur C",
+      "target": "INIA"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales",
+      "target": "Orafti"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales",
+      "target": "GAncestrales A"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales",
+      "target": "GAncestrales C"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales A",
+      "target": "Beneo"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales A",
+      "target": "Chilealimentos"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales A",
+      "target": "LENuñez"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales A",
+      "target": "Promauka"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales A",
+      "target": "Südzucker"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales A",
+      "target": "UCDavisChile"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales C",
+      "target": "AsocProdÑuble"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales C",
+      "target": "Cooproquinoa"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales C",
+      "target": "Dilici"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales C",
+      "target": "INIA"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales C",
+      "target": "PastasSuazo"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales C",
+      "target": "Socabio"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "GAncestrales C",
+      "target": "SocAlforfonValdivia"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "IFAN-A",
+      "target": "IFAN"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "IFAN-A",
+      "target": "PigmentosNaturales"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "IFAN-A",
+      "target": "Watts"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "IFAN-C",
+      "target": "Gelymar"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "IFAN-C",
+      "target": "ChileBotanics"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "IFAN-C",
+      "target": "Granotec"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "IFAN-C",
+      "target": "IFAN"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "IFAN-I",
+      "target": "IFAN"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "IFAN-I",
+      "target": "PF"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "IFAN-I",
+      "target": "Prinal"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "IFAN-I",
+      "target": "Quillayes"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "IFI-Cero Perdidas",
+      "target": "ASGreen"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "IFI-Cero Perdidas",
+      "target": "FAO"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "IFI-Cero Perdidas",
+      "target": "FCh"
+    },
+    {
+      "value": 11,
+      "category": 1,
+      "source": "IFI-Fruticola",
+      "target": "FDF"
+    },
+    {
+      "value": 11,
+      "category": 1,
+      "source": "IFI-Fruticola",
+      "target": "INIA"
+    },
+    {
+      "value": 11,
+      "category": 1,
+      "source": "IFI-Fruticola",
+      "target": "IQConsulting"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PIFA",
+      "target": "Ecoterra"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PIFA",
+      "target": "PIFA A"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PIFA",
+      "target": "PIFA C"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PIFA A",
+      "target": "GBugueño"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PIFA A",
+      "target": "GCL"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PIFA A",
+      "target": "ICTAN"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PIFA A",
+      "target": "IDOM"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PIFA A",
+      "target": "JContardo"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PIFA A",
+      "target": "Kimber"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PIFA A",
+      "target": "MBelmar"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PIFA A",
+      "target": "MerkenBiotech"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PIFA A",
+      "target": "UCDavis"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PIFA C",
+      "target": "Apiunisexta"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PIFA C",
+      "target": "ChileBotanics"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PIFA C",
+      "target": "UNAF"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PMauleOHiggins",
+      "target": "CEAP"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PMauleOHiggins",
+      "target": "PMauleOHiggins A"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PMauleOHiggins",
+      "target": "PMauleOHiggins C"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PMauleOHiggins A",
+      "target": "CEAF"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PMauleOHiggins A",
+      "target": "EuroChile"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PMauleOHiggins C",
+      "target": "AgriMaule"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PMauleOHiggins C",
+      "target": "Agromillora"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PMauleOHiggins C",
+      "target": "Coopeumo"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PMauleOHiggins C",
+      "target": "EcoCrea"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PMauleOHiggins C",
+      "target": "OlivosExport"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "PMauleOHiggins C",
+      "target": "Surfrut"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Polos",
+      "target": "INIA"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Polos",
+      "target": "Ecoterra"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Polos",
+      "target": "Orafti"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Polos",
+      "target": "CEAP"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Secano",
+      "target": "Secano A"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Secano",
+      "target": "Secano C"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Secano A",
+      "target": "PYMAgricultores-Chanco"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Secano A",
+      "target": "PYMAgricultores-Coihueco"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Secano A",
+      "target": "PYMAgricultores-Convento"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Secano A",
+      "target": "PYMAgricultores-Licanten"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Secano A",
+      "target": "PYMAgricultores-Navidad"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Secano A",
+      "target": "PYMAgricultores-PuebloSeco"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Secano A",
+      "target": "PYMAgricultores-SanIgnacio"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Secano C",
+      "target": "Granotec"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Secano C",
+      "target": "INIA-Quilamapu"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "Secano C",
+      "target": "Tucapel"
+    },
+    {
+      "value": 5,
+      "category": 1,
+      "source": "Biofrutales",
+      "target": "FrutiCentroNorte"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "Biofrutales",
+      "target": "FrutiSust"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "CEAP",
+      "target": "FcuatroF"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "CEAP",
+      "target": "ASGreen"
+    },
+    {
+      "value": "CEAP",
+      "category": 0,
+      "source": "CEAP",
+      "target": "INIA - Raihuen"
+    },
+    {
+      "value": "CEAP",
+      "category": 0,
+      "source": "CEAP",
+      "target": "Sugal"
+    },
+    {
+      "value": "CEAP",
+      "category": 0,
+      "source": "CEAP",
+      "target": "Surfrut"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "CEAP",
+      "target": "MauleAlimenta"
+    },
+    {
+      "value": 9,
+      "category": 1,
+      "source": "CET-AProcesados",
+      "target": "FEDEFRUTA"
+    },
+    {
+      "value": 9,
+      "category": 1,
+      "source": "CEVS",
+      "target": "UCDavis"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "CREAS",
+      "target": "Happy Plum"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "CREAS",
+      "target": "PesqueraMcColl"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "CREAS",
+      "target": "Manki"
+    },
+    {
+      "value": "CREAS",
+      "category": 0,
+      "source": "CREAS",
+      "target": "INIA - La Cruz"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "DICTUC",
+      "target": "Santa Rita"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "DICTUC",
+      "target": "Dueik"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "DICTUC",
+      "target": "Solutec"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "FCh",
+      "target": "Chilealimentos"
+    },
+    {
+      "value": 12,
+      "category": 1,
+      "source": "FCh",
+      "target": "NSF"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "FCh",
+      "target": "FCh-CTongoy"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "FChinquihue",
+      "target": "MejillonChile"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "Fraunhofer Chile",
+      "target": "Nueces del Choapa"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "Fraunhofer Chile",
+      "target": "Santa Rita"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "Fraunhofer Chile",
+      "target": "RanchoAzul"
+    },
+    {
+      "value": 6,
+      "category": 1,
+      "source": "FrutiCentroSur",
+      "target": "FDF"
+    },
+    {
+      "value": 3,
+      "category": 1,
+      "source": "IFAN",
+      "target": "CCF"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "INIA",
+      "target": "INCuBA"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "INIA",
+      "target": "Natural Response"
+    },
+    {
+      "value": 8,
+      "category": 1,
+      "source": "INIA",
+      "target": "INIA-Quilamapu"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "INIA-Rayentue",
+      "target": "Horticrece"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "Leitat Chile",
+      "target": "SouthHemp"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "Leitat Chile",
+      "target": "Agrofuturo"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "AVALosRios",
+      "target": "APICOOP"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "AVALosRios",
+      "target": "Calle-Calle"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "AVALosRios",
+      "target": "Collico"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "AVALosRios",
+      "target": "EntreLagos"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "AVALosRios",
+      "target": "Kunstmann"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "AVALosRios",
+      "target": "Nita"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "AVALosRios",
+      "target": "Runca"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "FrutiSust",
+      "target": "3raSRAconcagua"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "FrutiSust",
+      "target": "ALosAndes"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "FrutiSust",
+      "target": "AQuillotaMMarga"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "FrutiSust",
+      "target": "ASanAntonio"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "FrutiSust",
+      "target": "ASanFelipe"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "FrutiSust",
+      "target": "ASOEX"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "FrutiSust",
+      "target": "CACRN"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "FrutiSust",
+      "target": "CCuncumen"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "FrutiSust",
+      "target": "CNUOCC"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "FrutiSust",
+      "target": "FEDEFRUTA"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "FrutiSust",
+      "target": "GCorrea"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "Horticrece",
+      "target": "ASPROEX"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "Horticrece",
+      "target": "Coopeumo"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "Horticrece",
+      "target": "FGarciaH"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "Horticrece",
+      "target": "MUCECH"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MasMar",
+      "target": "AEONBiogroup"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MasMar",
+      "target": "AIP"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MasMar",
+      "target": "BMAElSauce"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MasMar",
+      "target": "BMPASanPedro"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MasMar",
+      "target": "Codesser"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MasMar",
+      "target": "ColoradoChile"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MasMar",
+      "target": "FCh-CTongoy"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MasMar",
+      "target": "PALosVilos"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MauleAlimenta",
+      "target": "Agrocepia"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MauleAlimenta",
+      "target": "BioInsumos Nativa"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MauleAlimenta",
+      "target": "Chilealimentos"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MauleAlimenta",
+      "target": "Codesser"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MauleAlimenta",
+      "target": "CRDP-Maule"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MauleAlimenta",
+      "target": "Surfrut"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MejillonChile",
+      "target": "AMCalbuco"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MejillonChile",
+      "target": "FPACochamo"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MejillonChile",
+      "target": "FPAHualaihue"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MejillonChile",
+      "target": "GranjaMarina"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MejillonChile",
+      "target": "Queilen"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MejillonChile",
+      "target": "SaintAndrews"
+    },
+    {
+      "value": "PERs",
+      "category": 1,
+      "source": "MejillonChile",
+      "target": "SudMaris"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "LofKumikir",
+      "target": "Ecotierra"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "Robinson Crusoe",
+      "target": "GoodFood4U"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "AIMPLAS",
+      "target": "INCuBA"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "ABio",
+      "target": "AZMaquinas"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "AChoapa",
+      "target": "F Min Los Pelambres "
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "AcuaFood",
+      "target": "CT Agricola"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "AcuaFood",
+      "target": "JA Galilea"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "AcuaFood",
+      "target": "JTaladriz"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "AcuaFood",
+      "target": "LMaria"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "AGRICOVIAL",
+      "target": "Ecoterra"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "AGRYD",
+      "target": "CHILENUT"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "Beitia y Garcia",
+      "target": "COPEVAL"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "C. JC Sleman",
+      "target": "NativeFood"
+    },
+    {
+      "value": 2,
+      "category": 1,
+      "source": "Comercial CJ",
+      "target": "Fco Fuentes C."
+    },
+    {
+      "value": 9,
+      "category": 2,
+      "source": "FEDEFRUTA",
+      "target": "Gesproinnova"
+    },
+    {
+      "value": "Otros",
+      "category": 2,
+      "source": "SOUTHAM",
+      "target": "Tres Mares"
+    }
+  ]
+}

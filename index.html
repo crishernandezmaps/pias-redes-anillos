@@ -1,13 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 
 <head>
-  <script src="js/d3.v4.min.js"></script>
-  <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
   <link rel="stylesheet" href="css/bootstrap.min.css">
+  <meta charset="utf-8"/>
 
   <style media="screen">
-    /* Styles go here */
 
     html,
     body {
@@ -21,15 +19,15 @@
       top: 10%;
       left: 5%;
       font-size: 0.8em;
-      width: 20%;
+      width: 100%;
     }
 
     #rei {
-      background: #6dd600;
+      background: #bfd1ad;
     }
 
     #zoom {
-      margin-left: 5%;
+      margin-left: 1%;
       margin-top: 2%;
       margin-bottom: 3%;
     }
@@ -72,12 +70,43 @@
       position: absolute;
       text-align: center;
       padding: 2px;
-      font: 12px sans-serif;
-      background: lightsteelblue;
+      font: 1em sans-serif;
       border: 0px;
       border-radius: 8px;
       pointer-events: none;
+      background: rgba(193, 66, 66, 0.1);
     }
+
+    .vis {
+      position: absolute;
+      width: 50%;
+      height: 100%;
+      left: -5%;
+      top: 100%;
+    }
+
+    .bar {
+      height: 100px;
+    }
+
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #D4D8DA;
+      stroke-width: 0px;
+      shape-rendering: crispEdges;
+    }
+    .x path {
+    	display: none;
+    }
+
+    #num {
+      font-size: 1.1em;
+      background: rgba(255, 255, 255, 0.5);
+    }
+
+
+
   </style>
 </head>
 
@@ -85,21 +114,26 @@
   <div class="container">
     <button type="button" name="button" id="degree">Mayores Conecciones</button>
     <button onclick="rel()" type="button" name="button" id="rei">Reiniciar</button>
-    <p id="zoom">Zoom <i class="fas fa-search-plus"></i> <i class="fas fa-search-minus"></i></p>
-    <div class="btn-group-vertical btn-group-sm regionesBut" role="group" aria-label="Small button group">
+    <p id="zoom"><i class="far fa-hand-pointer fa-2x"></i> Usted puede hacer Zoom In o Zoom Out <br> con la rueda de su mouse o con funciones <br> touch de su dispositivo móvil. <br><br></p>
+    <!-- <div class="btn-group-vertical btn-group-sm regionesBut" role="group" aria-label="Small button group">
       <button type="button" class="btn btn-secondary no"><img src="img/publicos.png"> Organismos Públicos</button>
       <button type="button" class="btn btn-secondary no"><img src="img/universidades.png"> Universidades y Afines</button>
       <button type="button" class="btn btn-secondary no"><img src="img/instrumento.png"> Instrumentos de Apoyo</button>
       <button type="button" class="btn btn-secondary no"><img src="img/iniciativa.png"> Iniciativas</button>
-      <button type="button" class="btn btn-secondary no"><img src="img/gestor.png"> Gestores Tecnológicos</button>
+      <button type="button" class="btn btn-secondary no"><img src="img/gestor.png"> Gestores Tecnologicos</button>
       <button type="button" class="btn btn-secondary no"><img src="img/per.png"> PER</button>
       <button type="button" class="btn btn-secondary no"><img src="img/comunidad.png"> Comunidad</button>
       <button type="button" class="btn btn-secondary no"><img src="img/internacional.png"> Organismos Internacionales</button>
       <button type="button" class="btn btn-secondary no"><img src="img/privados.png"> Organismos Privados</button>
-    </div>
+    </div> -->
+    <div class="vis"></div>
+    <p><b>488</b> organismos componen esta red.</p>
   </div>
 
+  <script src="js/d3.v4.min.js"></script>
+  <script src="js/underscore-min.js"></script>
   <script src="js/red-anillos.js"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
   <script type="text/javascript">
     function rel() {
       location.reload();
