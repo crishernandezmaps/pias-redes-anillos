@@ -120,7 +120,7 @@ d3.json("data/red-rings.json", function(error, graph) {
     .data(gnd)
     .enter()
     .append("circle")
-    .attr("r", nominal_node_size)
+    .attr("r", nominal_node_size * 1.2)
     .attr("fill", function(d) {
       if (d.ring !== "")
         return color(d.ring);
